@@ -1,0 +1,6 @@
+---
+layout: post
+title: Post #1
+---
+
+"Hello World!", Foo, or whatever other placeholder you'd like to call this :)
