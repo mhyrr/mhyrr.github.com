@@ -85,13 +85,15 @@ Here's problem 20 from Project Euler:
 		Find the sum of the digits in the number 100!
 {:quote}
 
-Relatively simple, but requires a little bit of work.  Certainly not something you'd want to compute by hand, or by calculator.  100! is 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000.  
+Relatively simple, but requires a little bit of work.  Certainly not something you'd want to compute by hand, or by calculator.  
+100! is 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000.  
 
 I don't think it fits in 32 bits (or 64 smartass..)!  So what do we do?
 
 Here's some solutions in a couple of languages.
 
 Java:
+
 	import java.math.*;
 	import java.lang.*;
 
