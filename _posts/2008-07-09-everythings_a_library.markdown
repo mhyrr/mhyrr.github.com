@@ -5,11 +5,11 @@ title: Everything's A Library
 
 {:quote:     code_background_color='#efefff'}
 
-{:ruby:      lang=ruby code_background_color='#efffef'}
+{:ruby:      lang=ruby code_background_color='#efefff'}
 
-{:java:		 lang=java code_background_color='#efffef'}
+{:java:		 lang=java code_background_color='#efefff'}
 
-{:c:		 lang=c code_background_color='#efffef'}
+{:c:		 lang=c code_background_color='#efefff'}
 
 I seem to alternate between one technical and one (somewhat) non-technical post - excepting travel logs.  That's fine by me.  It provides some harmony and balance to at least one thing I do.  That's important on any task, though usually I fail abysmally.  If I'm working out consistently, I'm giving something else up.  If I'm doing a lot of coding, I'm not seeing much sunlight.  The world runs on trends, so I suppose it makes sense that individuals do the same thing.  Another trend I follow is an introductory paragraph that has nothing to do with anything.  Like this one.
 
