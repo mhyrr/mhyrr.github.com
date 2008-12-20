@@ -1,11 +1,8 @@
-
 ---
 layout: post
 title: Scraping PBase
 CSS: /css/syntax.css
 ---
-
-
 
 {:ruby:     lang=ruby code_background_color='#efefff'}
 
@@ -20,41 +17,5 @@ Note that the first argument is the webpage with the first image in a given gall
 Note also that curl is Mac's version of wget.
 
 Here's the script:
+<script src="http://gist.github.com/38239.js"></script>
 
-	#!/usr/bin/ruby
-
-	require 'open-uri'
-
-	html = ARGV[0]
-	img = 0
-	top_level = "http://www.pbase.com"
-	folder = ARGV[1]
-	`mkdir #{folder}`
-	more = true
-	while more 
-	  open(html) { |f|
-
-	    f.each_line {|line|  
-    
-	      line.split(/ /).each { |part|
-   
-	        if line =~ /ALT=/
-	          if part =~ /http\:\/\//
-	            part.gsub!(/src=\"/, "").gsub!(/\"/, "")
-	            puts part
-	            `curl #{part} > #{folder}/img#{img}.jpg`
-	            img += 1
-	          end
-	        end          
-	        if part =~ />next<\//            
-	          if part =~ /<\/span>/
-	            more = false
-	          end
-	          html = top_level + part.gsub(/href=\"/, "").gsub(/\">next<\/a>\n/, "") + "/original"
-	          puts html
-	        end     
-	      }
-	    }
-	  }
-	end  
-{:ruby}
