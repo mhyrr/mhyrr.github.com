@@ -59,10 +59,13 @@ This could go on..  It's important to use a popular language when working on a 
 
 Let's consider one of the useful goodies of Perl (inherited from sed, I think).  Regular expressions are remarkably convenient little structures that let us say all sorts of things.  Finding a given pattern inside a string isn't a difficult problem, and it could be done in any language.  But let's say I'm doing it a lot, and the patterns change.  Instead of writing various chunks of code for each situation, it would be a much more elegant solution to come up with a single construct, and plug in the individual expressions there.  I'd want to write a library for it.  That's essentially what regular expressions are.  They're native to Perl, and more or less in other languages, so now they're considered a pretty standard language feature.  But back in the day it was quite a novelty - it was the coding equivalent of one of those giant 3 foot long Pixie sticks you used to down as a ten year old.  Time has changed it from syntactic sugar to a standard language feature.
 
-We can make the same case for even more basic language constructs, like loops.  Ruby lets me write 
+We can make the same case for even more basic language constructs, like loops.  
+Ruby lets me write
+
 	(1..100).each {|i| ..}  
-{:ruby}	
-C let's me write 
+{:ruby}
+C let's me write
+
 	for (int i = 0; i <= 100; i++) {...}
 {:c}
 Lisps use tail recursion.  But what does any of that matter when I can simply store a number in a register, perform some set of operations, and then iterate the register manually, and check the register manually?  God help me, but if I had to do that, I'd want to write a library for it.
@@ -80,9 +83,10 @@ Here's problem 20 from Project Euler:
 		n! means n * (n - 1) * ... * 3 * 2 * 1
 
 		Find the sum of the digits in the number 100!
-
-		Relatively simple, but requires a little bit of work.  Certainly not something you'd want to compute by hand, or by calculator.  100! is 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000.  
 {:quote}
+
+Relatively simple, but requires a little bit of work.  Certainly not something you'd want to compute by hand, or by calculator.  100! is 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000.  
+
 I don't think it fits in 32 bits (or 64 smartass..)!  So what do we do?
 
 Here's some solutions in a couple of languages.
@@ -101,7 +105,7 @@ Java:
 			System.out.println("b = " + b.toString());
 			String[] digs = b.toString().split("");
 
-			for( int i = 0; i &lt; digs.length; i++ ) {
+			for( int i = 0; i < digs.length; i++ ) {
 				if ( ! digs[i].equals("") ) {
 					int x = (new Integer( digs[i] )).intValue();
 					total += x;
@@ -111,7 +115,7 @@ Java:
 		}
 
 		public static BigInteger factorial( int n ) {
-			if ( n &lt;= 1 )
+			if ( n <= 1 )
 				return BigInteger.valueOf(1);
 			else
 				return BigInteger.valueOf(n).multiply( factorial( n - 1 ) );
