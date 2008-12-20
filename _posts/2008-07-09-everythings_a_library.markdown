@@ -3,7 +3,7 @@ layout: post
 title: Everything's A Library
 ---
 
-{:quote:     code_background_color='#efffef'}
+{:quote:     code_background_color='#efefff'}
 
 {:ruby:      lang=ruby code_background_color='#efffef'}
 
