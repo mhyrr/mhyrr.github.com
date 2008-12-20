@@ -3,7 +3,7 @@ layout: post
 title: Six Relaxing and Enjoyable Things You Probably Already Do But Could Be Done Better
 ---
 
-{:quote:     code_background_color='#efffef'}
+{:quote:     code_background_color='#efefff'}
 
 Wow.  That's a really long post title.  It gets the point across though.
 
