@@ -3,6 +3,8 @@ layout: post
 title: Scraping PBase
 ---
 
+{:ruby:     lang=ruby code_background_color='#efffef'}
+
 While I've liked having PBase, my family has decided to move to SmugMug. This was for a number of reasons, but the biggest is simply that PBase works on bandwidth, while SmugMug is a flat annual fee for unlimited storage (I'm not a huge fan of Flickr's interface).
 
 Unfortunately though, this presented a problem. I've got a lot (* GB) of photos on PBase that I don't have on local drives and I want to keep them and put them up on SmugMug. I thought other people might occasionally run into this problem, so here's the script I'm using to scrape my space and grab them all.
@@ -14,40 +16,40 @@ Note that the first argument is the webpage with the first image in a given gall
 Note also that curl is Mac's version of wget.
 
 Here's the script:
-<code>#!/usr/bin/ruby
+		#!/usr/bin/ruby
 
-require 'open-uri'
+		require 'open-uri'
 
-html = ARGV[0]
-img = 0
-top_level = "http://www.pbase.com"
-folder = ARGV[1]
-`mkdir #{folder}`
-more = true
-while more 
-  open(html) { |f|
+		html = ARGV[0]
+		img = 0
+		top_level = "http://www.pbase.com"
+		folder = ARGV[1]
+		`mkdir #{folder}`
+		more = true
+		while more 
+		  open(html) { |f|
 
-    f.each_line {|line|  
+		    f.each_line {|line|  
       
-      line.split(/ /).each { |part|
+		      line.split(/ /).each { |part|
      
-        if line =~ /ALT=/
-          if part =~ /http\:\/\//
-            part.gsub!(/src=\"/, "").gsub!(/\"/, "")
-            puts part
-            `curl #{part} > #{folder}/img#{img}.jpg`
-            img += 1
-          end
-        end          
-        if part =~ />next<\//            
-          if part =~ /<\/span>/
-            more = false
-          end
-          html = top_level + part.gsub(/href=\"/, "").gsub(/\">next<\/a>\n/, "") + "/original"
-          puts html
-        end     
-      }
-    }
-  }
-end  
-    </code>
+		        if line =~ /ALT=/
+		          if part =~ /http\:\/\//
+		            part.gsub!(/src=\"/, "").gsub!(/\"/, "")
+		            puts part
+		            `curl #{part} > #{folder}/img#{img}.jpg`
+		            img += 1
+		          end
+		        end          
+		        if part =~ />next<\//            
+		          if part =~ /<\/span>/
+		            more = false
+		          end
+		          html = top_level + part.gsub(/href=\"/, "").gsub(/\">next<\/a>\n/, "") + "/original"
+		          puts html
+		        end     
+		      }
+		    }
+		  }
+		end  
+{:ruby}

@@ -3,6 +3,9 @@ layout: post
 title: Learning After College
 ---
 
+{:quote:     code_background_color='#efffef'}
+
+
 I am now over five years out from college.  Five years seems to hold no particular substance beyond any other measure, aside from being used by industry as a benchmark for someone that now has a little bit of experience under their belt.  (This, I'm quite sure, is an arbitrary measurement linked to some facile business practice developed by someone who found the number of fingers on his hand fascinating.)  I do feel more experienced than I did when I left college.  Perhaps I feel more aware - I have a very Confucian feeling of my ignorance.  When I left college, I had a very large head planted firmly on my shoulders.  I had an engineering degree, which is no small feat compared to other degrees, and that degree commanded a salary beyond most college hires.  It seems inevitable that some form of arrogance will result.  It was a foolish arrogance though, based squarely in not knowing (and not wanting to know).
 <h3>UML is teh winnar!!11!1</h3>
 My first job out of college, they wanted to train me on RationalRose configuration management and ClearCase.  They had <em>teams</em> dedicated to making sure these things worked right.  If you don't know, really caring about ClearCase is the same as caring more about requirements and maturity processes than actual algorithm development or any other truly computer science based topic.
@@ -50,11 +53,12 @@ This is part of the first three, but it's also something else.  It's not suffic
 This was not on my original list, but it's an important point.  Being relentless with something like this does not translate to tedium.  If the process seems like a never ending chore, you'll wind up beating your head against the wall.  It's important to take breaks, to maintain a Joie de Vivre.  Even in a professional application, I wouldn't want to <a href="http://www.37signals.com/svn/posts/902-fire-the-workaholics">work with workaholics</a>.
 <h3>Coda</h3>
 That's it, that's what it takes to keep learning.  Come to think of it, this formula is really in parallel to school, rather than in series.  You can do these things at any point in your life, and wherever you are, it will make you think more and better.
-<blockquote> Listen to what I shall call Him: the Bottomless Abyss, the Insatiable, the Merciless, the Indefatigable, the Unsatisfied. He who never once said to poor unfortunate mankind 'Enough!'
-'Not enough,' that is what he screamed at me.
-'I can't go further,' whines miserable man.
-'You can!' the Lord replies.
-'I shall break in two,'man whines again.
-'Break!'
+		Listen to what I shall call Him: the Bottomless Abyss, the Insatiable, the Merciless, the Indefatigable, the Unsatisfied. He who never once said to poor unfortunate mankind 'Enough!'
+		'Not enough,' that is what he screamed at me.
+		'I can't go further,' whines miserable man.
+		'You can!' the Lord replies.
+		'I shall break in two,'man whines again.
+		'Break!'
 
--Kazantzakis, <em>St. Francis</em></blockquote>
+		-Kazantzakis, <em>St. Francis</em>
+{:quote}

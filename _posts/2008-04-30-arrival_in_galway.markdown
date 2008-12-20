@@ -13,4 +13,4 @@ The river is beautiful, bordered by Quays all the way down to where it slips int
 
 Sleep the first night was very, very welcome.
 
-<a href="http://riskman.smugmug.com/gallery/4831902_u2C2b/1#287557085_McNcM">Pictures here</a>.  More coming as I can.
+[Pictures here](http://riskman.smugmug.com/gallery/4831902_u2C2b/1#287557085_McNcM).  More coming as I can.

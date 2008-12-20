@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Contrarian View: Why Should I Vote?
+title: "A Contrarian View\: Why Should I Vote?"
 ---
 
 #### Anticipation (typical unrelated opening paragraph)

@@ -3,28 +3,29 @@ layout: post
 title: Eat Flaming Death.  Hehe.
 ---
 
-<code>
-DB(1) @a = [3, 1, -1, 4, 0, 7];
-DB(2) p @a;
-ARRAY(0x104bfc2c)
-DB(3) $a = (3, 1, -1, 4, 0, 7);
-DB(4) p $a;
-7
-DB(5) eat flaming death
-Can’t locate object method “eat” via package “flaming”
-(perhaps you forgot to load “flaming”?) at
-(eval 27)[/usr/lib/perl5/5.8.2/.perl5db.pl:618] line 2.
-DB(6) @a = (3, 1, -1, 4, 0, 7);
-DB(7) p @a;
-31-1407
-DB(8) p join(‘, ‘, @a);
-3, 1, -1, 4, 0, 7
-DB(9) sort @a;
-DB(10) p @a;
-31-1407
-DB(11) p join(‘, ‘, sort @a);
--1, 0, 1, 3, 4, 7”
-</code>
+{:perl:     lang=sh code_background_color='#efffef'}
+
+	DB(1) @a = [3, 1, -1, 4, 0, 7];
+	DB(2) p @a;
+	ARRAY(0x104bfc2c)
+	DB(3) $a = (3, 1, -1, 4, 0, 7);
+	DB(4) p $a;
+	7
+	DB(5) eat flaming death
+	Can’t locate object method “eat” via package “flaming”
+	(perhaps you forgot to load “flaming”?) at
+	(eval 27)[/usr/lib/perl5/5.8.2/.perl5db.pl:618] line 2.
+	DB(6) @a = (3, 1, -1, 4, 0, 7);
+	DB(7) p @a;
+	31-1407
+	DB(8) p join(‘, ‘, @a);
+	3, 1, -1, 4, 0, 7
+	DB(9) sort @a;
+	DB(10) p @a;
+	31-1407
+	DB(11) p join(‘, ‘, sort @a);
+	-1, 0, 1, 3, 4, 7”
+{:perl}
 
 Aside from being an amusing bit of humor, this situation characterizes something that bothers me about how a lot of people tend to use a computer.  In fact, I think it's one of the primary differences between those considered computer-savvy and those that are not.
 

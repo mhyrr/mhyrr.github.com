@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Six Rules for the Most Important Part of Your Software: Installation and Upgrade
+title: "Six Rules for the Most Important Part of Your Software\: Installation and Upgrade"
 ---
 
 It doesn't take the extreme examples to realize that the general state of user interfaces in software suck.  The available levels of interface design are passable, bad, and OMG WTF?!  If you want to sell a product, it makes sense that you want to quell your user's use of expletives.  In fact, you don't just want to pacify them with something that's "good enough", you want to make them love you.  You want them exalting you with such loyalty that they'd rather cut off pieces of anatomy than let someone they care about use a competitor's deficient product.  That's how you increase your sales, your branding, and your karma in the world.

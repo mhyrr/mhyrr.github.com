@@ -3,6 +3,9 @@ layout: post
 title: You've Got To Be Kidding Me
 ---
 
+
+{:shell:     lang=sh code_background_color='#efffef'}
+
 <img src="http://imgs.xkcd.com/comics/e_to_the_pi_times_i.png" height="481" width="400" />
 
 Sometimes the universe is just weird.  Not weird in the things-are-really-completely-random way, but in the profound-truth-that-I-can't-possibly-understand way.  You know, <a href="http://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox">Banack-Tarski Paradox</a> weird.  <a href="http://en.wikipedia.org/wiki/Euler%27s_identity">Euler's Identity</a> weird.  Weird like Monty Hall weird.
@@ -17,76 +20,76 @@ A while back, I argued with a friend about this for awhile.  She was absolutely
 
 Here's the results from 2 runs:
 
-<code>
-DO NOT SWITCH DOORS: 1,000,000 trials conducted</code>
+	DO NOT SWITCH DOORS: 1,000,000 trials conducted
 
-Results:
-Pick Distribution:
-Door 1:	332588
-Door 2:	333606
-Door 3:	333806
-Goat Distribution:
-Door 1:	333507
-Door 2:	333938
-Door 3:	332555
-Correct: 333134, 33%
-Incorrect: 666866, 67%
+	Results:
+	Pick Distribution:
+	Door 1:	332588
+	Door 2:	333606
+	Door 3:	333806
+	Goat Distribution:
+	Door 1:	333507
+	Door 2:	333938
+	Door 3:	332555
+	Correct: 333134, 33%
+	Incorrect: 666866, 67%
 
-=====
+	=====
 
-SWITCH DOORS: 1,000,000 trials conducted
+	SWITCH DOORS: 1,000,000 trials conducted
 
-Results:
-Pick Distribution:
-Door 1:	332871
-Door 2:	333808
-Door 3:	333321
-Goat Distribution:
-Door 1:	333779
-Door 2:	332836
-Door 3:	333385
-Switch Distribution:
-Door 1:	333350
-Door 2:	333356
-Door 3:	333294
-Correct: 666571, 67%
-Incorrect: 333429, 33%
+	Results:
+	Pick Distribution:
+	Door 1:	332871
+	Door 2:	333808
+	Door 3:	333321
+	Goat Distribution:
+	Door 1:	333779
+	Door 2:	332836
+	Door 3:	333385
+	Switch Distribution:
+	Door 1:	333350
+	Door 2:	333356
+	Door 3:	333294
+	Correct: 666571, 67%
+	Incorrect: 333429, 33%
 
-========================================
+	========================================
 
-DO NOT SWITCH DOORS: 1,000,000 trials conducted
+	DO NOT SWITCH DOORS: 1,000,000 trials conducted
 
-Results:
-Pick Distribution:
-Door 1:	334011
-Door 2:	333256
-Door 3:	332733
-Goat Distribution:
-Door 1:	332870
-Door 2:	333830
-Door 3:	333300
-Correct: 333308, 33%
-Incorrect: 666692, 67%
+	Results:
+	Pick Distribution:
+	Door 1:	334011
+	Door 2:	333256
+	Door 3:	332733
+	Goat Distribution:
+	Door 1:	332870
+	Door 2:	333830
+	Door 3:	333300
+	Correct: 333308, 33%
+	Incorrect: 666692, 67%
 
-=====
+	=====
 
-SWITCH DOORS: 1,000,000 trials conducted
+	SWITCH DOORS: 1,000,000 trials conducted
 
-Results:
-Pick Distribution:
-Door 1:	333526
-Door 2:	333202
-Door 3:	333272
-Goat Distribution:
-Door 1:	332794
-Door 2:	333637
-Door 3:	333569
-Switch Distribution:
-Door 1:	333680
-Door 2:	333161
-Door 3:	333159
-Correct: 666985, 67%
-Incorrect: 333015, 33%
+	Results:
+	Pick Distribution:
+	Door 1:	333526
+	Door 2:	333202
+	Door 3:	333272
+	Goat Distribution:
+	Door 1:	332794
+	Door 2:	333637
+	Door 3:	333569
+	Switch Distribution:
+	Door 1:	333680
+	Door 2:	333161
+	Door 3:	333159
+	Correct: 666985, 67%
+	Incorrect: 333015, 33%
+{:sh}
 It works out.  But it's still non-intuitive.  I just love that the world works like that sometimes.  If things were always real simple, the entire Universe would be completely knowable, and that would be boring.  So rejoice when things are weird.
 
 If you really, really want the code part.. fine, here it is:

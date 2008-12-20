@@ -3,6 +3,14 @@ layout: post
 title: Everything's A Library
 ---
 
+{:quote:     code_background_color='#efffef'}
+
+{:ruby:      lang=ruby code_background_color='#efffef'}
+
+{:java:		 lang=java code_background_color='#efffef'}
+
+{:c:		 lang=c code_background_color='#efffef'}
+
 I seem to alternate between one technical and one (somewhat) non-technical post - excepting travel logs.  That's fine by me.  It provides some harmony and balance to at least one thing I do.  That's important on any task, though usually I fail abysmally.  If I'm working out consistently, I'm giving something else up.  If I'm doing a lot of coding, I'm not seeing much sunlight.  The world runs on trends, so I suppose it makes sense that individuals do the same thing.  Another trend I follow is an introductory paragraph that has nothing to do with anything.  Like this one.
 
 As another small side note, this is my first post using [TextMate's](http://www.macromates.com) Blogging bundle.  So far, so good.  I started using TextMate about four months ago for all personal development, and I've been really impressed so far.  Great syntax highlighting, great shortcuts, a fabulous bundle system, and absolutely fantastic autocompletion and shortcuts.  If you've got a Mac, you've got to use it.  It's worth the price.
@@ -51,7 +59,13 @@ This could go on..  It's important to use a popular language when working on a 
 
 Let's consider one of the useful goodies of Perl (inherited from sed, I think).  Regular expressions are remarkably convenient little structures that let us say all sorts of things.  Finding a given pattern inside a string isn't a difficult problem, and it could be done in any language.  But let's say I'm doing it a lot, and the patterns change.  Instead of writing various chunks of code for each situation, it would be a much more elegant solution to come up with a single construct, and plug in the individual expressions there.  I'd want to write a library for it.  That's essentially what regular expressions are.  They're native to Perl, and more or less in other languages, so now they're considered a pretty standard language feature.  But back in the day it was quite a novelty - it was the coding equivalent of one of those giant 3 foot long Pixie sticks you used to down as a ten year old.  Time has changed it from syntactic sugar to a standard language feature.
 
-We can make the same case for even more basic language constructs, like loops.  Ruby lets me write (1..100).each {|i| ..}.  C let's me write for (int i = 0; i &lt;= 100; i++) {...}.  Lisps use tail recursion.  But what does any of that matter when I can simply store a number in a register, perform some set of operations, and then iterate the register manually, and check the register manually?  God help me, but if I had to do that, I'd want to write a library for it.
+We can make the same case for even more basic language constructs, like loops.  Ruby lets me write 
+	(1..100).each {|i| ..}  
+{:ruby}	
+C let's me write 
+	for (int i = 0; i <= 100; i++) {...}
+{:c}	
+Lisps use tail recursion.  But what does any of that matter when I can simply store a number in a register, perform some set of operations, and then iterate the register manually, and check the register manually?  God help me, but if I had to do that, I'd want to write a library for it.
 
 #### Power
 
@@ -63,59 +77,62 @@ That sounds goofy.  If you're sane you probably think I'm nuts.  So let's look
 
 Here's problem 20 from Project Euler:
 
-n! means n * (n - 1) * ... * 3 * 2 * 1
+		n! means n * (n - 1) * ... * 3 * 2 * 1
 
-Find the sum of the digits in the number 100!
+		Find the sum of the digits in the number 100!
 
-Relatively simple, but requires a little bit of work.  Certainly not something you'd want to compute by hand, or by calculator.  100! is 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000.  I don't think it fits in 32 bits (or 64 smartass..)!  So what do we do?
+		Relatively simple, but requires a little bit of work.  Certainly not something you'd want to compute by hand, or by calculator.  100! is 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000.  
+{:quote}
+I don't think it fits in 32 bits (or 64 smartass..)!  So what do we do?
 
 Here's some solutions in a couple of languages.
 
 Java:
-[sourcecode language='java']
+	import java.math.*;
+	import java.lang.*;
 
-import java.math.*;
-import java.lang.*;
+	public final class Euler20 {
 
-public final class Euler20 {
+		public static void main(String[] args) {
 
-public static void main(String[] args) {
+			int total = 0;
+			BigInteger b = factorial(100);
 
-int total = 0;
-BigInteger b = factorial(100);
+			System.out.println("b = " + b.toString());
+			String[] digs = b.toString().split("");
 
-System.out.println("b = " + b.toString());
-String[] digs = b.toString().split("");
+			for( int i = 0; i &lt; digs.length; i++ ) {
+				if ( ! digs[i].equals("") ) {
+					int x = (new Integer( digs[i] )).intValue();
+					total += x;
+				}
+			}
+			System.out.println("total is " + total);
+		}
 
-for( int i = 0; i &lt; digs.length; i++ ) {
-if ( ! digs[i].equals("") ) {
-int x = (new Integer( digs[i] )).intValue();
-total += x;
-}
-}
-System.out.println("total is " + total);
-}
+		public static BigInteger factorial( int n ) {
+			if ( n &lt;= 1 )
+				return BigInteger.valueOf(1);
+			else
+				return BigInteger.valueOf(n).multiply( factorial( n - 1 ) );
+		}
 
-public static BigInteger factorial( int n ) {
-if ( n &lt;= 1 )
-return BigInteger.valueOf(1);
-else
-return BigInteger.valueOf(n).multiply( factorial( n - 1 ) );
-}
+	}
+{:java}
 
-}
-[/sourcecode]
 That's a little bit long (30 lines), and I had to use the BigInteger class for arbitrarily long integers.  Note I didn't use any particularly exciting Java language features either.  I could've made the loops shorter and other neat things.  Whatever, it's a quick and dirty.  Deal with it.
 
 Here's the same thing in Ruby:
 
-puts (1..100).inject(1) {|mult, num| mult * num }.to_s.split("").inject(0) {|sum, dig| sum + dig.to_i }
+	puts (1..100).inject(1) {|mult, num| mult * num }.to_s.split("").inject(0) {|sum, dig| sum + dig.to_i }
+{:ruby}
 
 Wow!  1 Line!  But what's all this inject and |foo| nonsense?  How are we dealing with any variables in here?
 
 Here's one more solution I pulled from the Project Euler forums, courtesy of nsg.  This is about as terse as I think you can get.  The J Language is known for that sort of thing:
 
-+/"."0":!100x
+	+/"."0":!100x
+{:c}
 
 Yes, that really is the whole thing.  13 characters.
 

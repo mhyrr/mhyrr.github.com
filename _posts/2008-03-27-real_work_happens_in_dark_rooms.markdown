@@ -36,7 +36,7 @@ What darkness actually provides is a consistent, comfortable, and confident envi
 
 This isn't to say that it's the only way to work.  Everyone needs daylight, preferably a lot of it, and especially in contrast to darkness.  In fact, like sleep, a daylight break will often allow fairly startling revelations to pop out.  It's also the easiest place to collaborate.  People tend to be more forthright and communicative in natural light than they are in darkness or artificial light.  It's no wonder that the brilliant tech companies out there have huge window filled lounges with ping-pong, pool tables, and couches for their employees to hang out in.  These types of environments actually enhance the level of work being performed.
 
-So why is turning the lights off in most office spaces a corporate faux pas?  Most jobs, quite frankly, don't take a great deal of mental heavy lifting (employers often like to think they do).  If that heavy concentration is required, it's generally tackled off hours, either before or after the normal workday, with minimal distractions.  It always seems like the people that really get a lot done either get in early and leave early or get in late and leave late.  The typical 9-5er's, often, simply take up space. *
+So why is turning the lights off in most office spaces a corporate faux pas?  Most jobs, quite frankly, don't take a great deal of mental heavy lifting (employers often like to think they do).  If that heavy concentration is required, it's generally tackled off hours, either before or after the normal workday, with minimal distractions.  It always seems like the people that really get a lot done either get in early and leave early or get in late and leave late.  The typical 9-5er's, often, simply take up space. \*
 
 <img src="http://www.ehow.com/images/GlobalPhoto/Articles/2027336/office-space-06_Full.jpg" alt="Office Space" height="400" width="600" />
 
@@ -44,4 +44,4 @@ The real problem exists when a job commonly calls for this sort of real work and
 
 So the next time you encounter something you want to put some real mental effort towards, try turning off the lights.
 
-* This is just a general rule, and definitely does not apply in a good environment.
+\* This is just a general rule, and definitely does not apply in a good environment.
