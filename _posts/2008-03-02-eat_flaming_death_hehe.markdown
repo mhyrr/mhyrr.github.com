@@ -2,7 +2,7 @@
 layout: post
 title: Eat Flaming Death.  Hehe.
 ---
-<script src="http://gist.github.com/38240.js"></script>
+<script src="http://gist.github.com/38240.js"> </script>
 
 Aside from being an amusing bit of humor, this situation characterizes something that bothers me about how a lot of people tend to use a computer.  In fact, I think it's one of the primary differences between those considered computer-savvy and those that are not.
 
