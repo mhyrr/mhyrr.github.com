@@ -8,15 +8,15 @@ title: You've Got To Be Kidding Me
 
 <img src="http://imgs.xkcd.com/comics/e_to_the_pi_times_i.png" height="481" width="400" />
 
-Sometimes the universe is just weird.  Not weird in the things-are-really-completely-random way, but in the profound-truth-that-I-can't-possibly-understand way.  You know, <a href="http://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox">Banack-Tarski Paradox</a> weird.  <a href="http://en.wikipedia.org/wiki/Euler%27s_identity">Euler's Identity</a> weird.  Weird like Monty Hall weird.
+Sometimes the universe is just weird.  Not weird in the things-are-really-completely-random way, but in the profound-truth-that-I-can't-possibly-understand way.  You know, [Banack-Tarski Paradox](http://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) weird.  [Euler's Identity](http://en.wikipedia.org/wiki/Euler%27s_identity) weird.  Weird like Monty Hall weird.
 
 Ok, I don't really mean Monty Hall, I mean the Monty Hall Problem named after him.  But I'm sure he is weird.  Everything that was popular in the 70s was weird.
 
-Anyway, the Monty Hall Problem.  It's pretty weird.  The basic premise goes like this: you get to choose 1 of 3 doors.  1 of the 3 doors has a new car behind it, the other 2 have goats.  After you've made your choice, Monty Hall shows you a goat behind one of the doors, and asks if you'd like to switch doors to the other remaining unopened door.  Is there a statistical difference between your two choices?  (For a precise definition, see the <a href="http://en.wikipedia.org/wiki/Monty_hall_problem">Wikipedia article</a>.)
+Anyway, the Monty Hall Problem.  It's pretty weird.  The basic premise goes like this: you get to choose 1 of 3 doors.  1 of the 3 doors has a new car behind it, the other 2 have goats.  After you've made your choice, Monty Hall shows you a goat behind one of the doors, and asks if you'd like to switch doors to the other remaining unopened door.  Is there a statistical difference between your two choices?  (For a precise definition, see the [Wikipedia article](http://en.wikipedia.org/wiki/Monty_hall_problem).
 
 I won't keep you in suspense.  You've got a 2 in 3 shot at it if you switch, and only a 1 in 3 shot if you don't.  There really is a difference, as the myriad proofs on Wikipedia show.  But it's just a weird answer.  Our gut tells us you've got a 50/50 shot either way.
 
-A while back, I argued with a friend about this for awhile.  She was absolutely convinced that it was 50/50.  We went back and forth for awhile and didn't really get anywhere (my verbal exposition was not up to snuff).  Today I read a <a href="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDD1E3FF932A15754C0A967958260&amp;sec=&amp;spon=&amp;pagewanted=all">New York Times article</a> that talks about the problem and it reminded me of her insistence.  Sometimes there's just nothing like empirical evidence.  So I whipped up a little script to run through a large sample set for this problem.
+A while back, I argued with a friend about this for awhile.  She was absolutely convinced that it was 50/50.  We went back and forth for awhile and didn't really get anywhere (my verbal exposition was not up to snuff).  Today I read a [New York Times article](http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDD1E3FF932A15754C0A967958260&amp;sec=&amp;spon=&amp;pagewanted=all) that talks about the problem and it reminded me of her insistence.  Sometimes there's just nothing like empirical evidence.  So I whipped up a little script to run through a large sample set for this problem.
 
 Here's the results from 2 runs:
 

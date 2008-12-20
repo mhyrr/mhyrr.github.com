@@ -14,9 +14,9 @@ I still sort of remember the first time I heard the word multitask.  I heard it
 What the hell did people do before multitasking existed?  How did they survive without Tivo, DVDs, Playstation, and, the biggest distraction ever, the infinitely knowledgeable Internet.  What did kids do on car rides before Nintendo?
 
 It seems we stay busy now because we're used to it.  We never simply pause.
+
 		"What is this life if, full of care,
 		We have no time to stand and stare?—"
-
 		W.H. Davies
 {:quote}
 Originally, I guess this seemed like a great goal.  If we could cram in as much as possible we could get more done and know more stuff.  It never works out that way though.  When you do 3 things at once, you give them each 33% of your attention, not 100% of it.  The information equivalent is trading knowledge for raw data.  What good is the data?  Does it really matter if you can't extract knowledge?  The world very clearly answers no in a lot of cases.  But dear God, look at what cultures can do by focusing on perfecting something exclusively.  Read up on the intricacy and beauty of the <a href="http://en.wikipedia.org/wiki/Japanese_tea_ceremony">Japanese Tea Ceremony</a> for instance, or <a href="http://en.wikipedia.org/wiki/Calligraphy">Calligraphy</a>, or even.. <a href="http://en.wikipedia.org/wiki/Donald_knuth">Donald Knuth</a>.
