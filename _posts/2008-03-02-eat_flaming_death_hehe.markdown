@@ -3,7 +3,7 @@ layout: post
 title: Eat Flaming Death.  Hehe.
 ---
 
-{:perl:     lang=sh code_background_color='#efffef'}
+{:perl:     lang=sh code_background_color='#efefff'}
 
 	DB(1) @a = [3, 1, -1, 4, 0, 7];
 	DB(2) p @a;
