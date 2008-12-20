@@ -1,9 +1,10 @@
+CSS: /css/syntax.css
 ---
 layout: post
 title: Scraping PBase
 ---
 
-CSS: /css/syntax.css
+
 
 {:ruby:     lang=ruby code_background_color='#efefff'}
 
