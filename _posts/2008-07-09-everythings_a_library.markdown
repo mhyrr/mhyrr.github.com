@@ -64,7 +64,7 @@ We can make the same case for even more basic language constructs, like loops. 
 {:ruby}	
 C let's me write 
 	for (int i = 0; i <= 100; i++) {...}
-{:c}	
+{:c}
 Lisps use tail recursion.  But what does any of that matter when I can simply store a number in a register, perform some set of operations, and then iterate the register manually, and check the register manually?  God help me, but if I had to do that, I'd want to write a library for it.
 
 #### Power

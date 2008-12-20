@@ -38,10 +38,10 @@ I was looking at an article on document and text visualization the other day and
 Here are the results:
 
 [Wordle](http://wordle.net/):
-![Wordcloud](http://www.infiniteabyss.org/wordcloud.png)
+![Wordcloud](http://www.infiniteabyss.org/images/wordcloud.png)
 
 [Phrase Arcs](http://www.neoformix.com/Projects/DocumentArcDiagrams/index.html):
-![Phrase Arc](http://www.infiniteabyss.org/phrasearcs.png)
+![Phrase Arc](http://www.infiniteabyss.org/images/phrasearcs.png)
 
 Let's start with the Wordle, which is comprised of only my last five posts.  Wordle filters out very common English words like "the" and "of" and then produces a cloud of the most common words (250 of them in this case) with size representing relative number of occurences.  
 
