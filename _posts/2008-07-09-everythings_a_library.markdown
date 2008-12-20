@@ -93,45 +93,12 @@ I don't think it fits in 32 bits (or 64 smartass..)!  So what do we do?
 Here's some solutions in a couple of languages.
 
 Java:
-
-	import java.math.*;
-	import java.lang.*;
-
-	public final class Euler20 {
-
-		public static void main(String[] args) {
-
-			int total = 0;
-			BigInteger b = factorial(100);
-
-			System.out.println("b = " + b.toString());
-			String[] digs = b.toString().split("");
-
-			for( int i = 0; i < digs.length; i++ ) {
-				if ( ! digs[i].equals("") ) {
-					int x = (new Integer( digs[i] )).intValue();
-					total += x;
-				}
-			}
-			System.out.println("total is " + total);
-		}
-
-		public static BigInteger factorial( int n ) {
-			if ( n <= 1 )
-				return BigInteger.valueOf(1);
-			else
-				return BigInteger.valueOf(n).multiply( factorial( n - 1 ) );
-		}
-
-	}
-{:java}
+<script src="http://gist.github.com/38241.js"></script>
 
 That's a little bit long (30 lines), and I had to use the BigInteger class for arbitrarily long integers.  Note I didn't use any particularly exciting Java language features either.  I could've made the loops shorter and other neat things.  Whatever, it's a quick and dirty.  Deal with it.
 
 Here's the same thing in Ruby:
-
-	puts (1..100).inject(1) {|mult, num| mult * num }.to_s.split("").inject(0) {|sum, dig| sum + dig.to_i }
-{:ruby}
+<script src="http://gist.github.com/38242.js"></script>
 
 Wow!  1 Line!  But what's all this inject and |foo| nonsense?  How are we dealing with any variables in here?
 
