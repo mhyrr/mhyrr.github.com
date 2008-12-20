@@ -3,7 +3,7 @@ layout: post
 title: Scraping PBase
 ---
 
-{:ruby:     lang=highlight code_background_color='#efefff'}
+{:ruby:     lang=ruby code_background_color='#efefff'}
 
 While I've liked having PBase, my family has decided to move to SmugMug. This was for a number of reasons, but the biggest is simply that PBase works on bandwidth, while SmugMug is a flat annual fee for unlimited storage (I'm not a huge fan of Flickr's interface).
 
