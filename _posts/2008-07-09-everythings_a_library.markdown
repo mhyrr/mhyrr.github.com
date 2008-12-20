@@ -93,12 +93,14 @@ I don't think it fits in 32 bits (or 64 smartass..)!  So what do we do?
 Here's some solutions in a couple of languages.
 
 Java:
-<script src="http://gist.github.com/38241.js"></script>
+
+<script src="http://gist.github.com/38241.js">doink</script>
 
 That's a little bit long (30 lines), and I had to use the BigInteger class for arbitrarily long integers.  Note I didn't use any particularly exciting Java language features either.  I could've made the loops shorter and other neat things.  Whatever, it's a quick and dirty.  Deal with it.
 
 Here's the same thing in Ruby:
-<script src="http://gist.github.com/38242.js"></script>
+
+<script src="http://gist.github.com/38242.js">hmm</script>
 
 Wow!  1 Line!  But what's all this inject and |foo| nonsense?  How are we dealing with any variables in here?
 
