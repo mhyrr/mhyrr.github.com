@@ -10,14 +10,14 @@ In bed at night, I often kept a flashlight with me, so that I could read surrept
 I prefer greatly working in quasi or complete darkness.  I thought this was simply an artifact of early experiences, mostly of reading in the dark.  Lately I've been wondering if I like working in the dark because it's the natural state of intellectual work.
 
 I suppose that's the first point of clarification.  "Real work" should be defined as anything that requires some level of intellectual processing power.  Perhaps a better description would be "creative work" happens in dark rooms, which doesn't encompass all types of work.  For instance, there certainly is very real work that occurs outside.  This is, in the general case, a different sort of brain function.  When I'm laying on the driveway underneath a car, I'm not working out the location of parts of the vehicle for ideal polar moments given a certain mass and wheelbase.  I'm working to get the predefined correct amount of camber, or making sure a spring is aligned properly.  I'm focused much more on the concrete rather than the abstract.  "Real work" of the type I mean can be roughly defined by the level of abstraction required.  Here's a non-exhaustive list:
-<ul>
-	<li>Creative Arts</li>
-	<li>Academic and Humanities Research</li>
-	<li>Math (real math, this does not mean repetitive exercises)</li>
-	<li>Writing</li>
-	<li>Engineering Design</li>
-	<li>Software Development</li>
-</ul>
+
+*	Creative Arts
+*	Academic and Humanities Research
+*	Math (real math, this does not mean repetitive exercises)
+*	Writing
+*	Engineering Design
+*	Software Development
+
 We're specifically considering any task that requires a certain level of abstraction and creativity, something that requires intensive focus or concentration.  Does this have to happen in the dark?  No, it doesn't have to, but if it doesn't, it's severely hampered.  Consider the image that comes to mind when you think of a scholar pouring over a book in a library, a writer attempting to capture thoughts in book form, or even a hacker furiously typing at a keyboard.
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Michelangelo_Caravaggio_057.jpg/300px-Michelangelo_Caravaggio_057.jpg" alt="St. Jerome Writing (from Wikipedia" height="216" width="300" />
