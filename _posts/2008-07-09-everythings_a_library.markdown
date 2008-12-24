@@ -3,14 +3,6 @@ layout: post
 title: Everything's A Library
 ---
 
-{:quote:     code_background_color='#efefff'}
-
-{:ruby:      lang=ruby code_background_color='#efefff'}
-
-{:java:		 lang=java code_background_color='#efefff'}
-
-{:c:		 lang=c code_background_color='#efefff'}
-
 I seem to alternate between one technical and one (somewhat) non-technical post - excepting travel logs.  That's fine by me.  It provides some harmony and balance to at least one thing I do.  That's important on any task, though usually I fail abysmally.  If I'm working out consistently, I'm giving something else up.  If I'm doing a lot of coding, I'm not seeing much sunlight.  The world runs on trends, so I suppose it makes sense that individuals do the same thing.  Another trend I follow is an introductory paragraph that has nothing to do with anything.  Like this one.
 
 As another small side note, this is my first post using [TextMate's](http://www.macromates.com) Blogging bundle.  So far, so good.  I started using TextMate about four months ago for all personal development, and I've been really impressed so far.  Great syntax highlighting, great shortcuts, a fabulous bundle system, and absolutely fantastic autocompletion and shortcuts.  If you've got a Mac, you've got to use it.  It's worth the price.
@@ -25,7 +17,7 @@ There seems to be a general consensus that it's important to use a popular langu
 
 But what makes a language *popular*?  Or rather, how does a language jump the gap, and move from relative obscurity to fame and fortune on the Internets?  It sometimes seems to happen overnight, but it's always preceded by the release of some interesting project.  So here's a hypothesis: for a language to become popular, hip, and cool, *something important has to be written in that language.*  Let's look at a couple of examples, shall we?
 
-#### C
+#### C   
 
 Go back into [negative time](http://en.wikipedia.org/wiki/Unix_time) (January 1, 1970) and all operating systems were written in assembly.  Great, big, bad Multics was written in assembly.  Early iterations of Unics were written in assembly.  If you've ever done assembly programming, you'll know that it's a pain in the ass.  Everything sucks.  Imagine trying to think out a sentence, but having to write each letter as a series of dots in the correct pattern, and only being allowed to write one dot per second.  By the time you finished the first letter, you'll have forgotten the purpose of the sentence.  That's assembly.
 
