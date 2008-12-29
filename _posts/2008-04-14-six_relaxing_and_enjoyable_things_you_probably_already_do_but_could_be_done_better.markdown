@@ -3,7 +3,6 @@ layout: post
 title: Six Relaxing and Enjoyable Things You Probably Already Do But Could Be Done Better
 ---
 
-{:quote:     code_background_color='#efefff'}
 
 Wow.  That's a really long post title.  It gets the point across though.
 
@@ -18,7 +17,7 @@ It seems we stay busy now because we're used to it.  We never simply pause.
 		"What is this life if, full of care,
 		We have no time to stand and stare?—"
 		W.H. Davies
-{:quote}
+		
 Originally, I guess this seemed like a great goal.  If we could cram in as much as possible we could get more done and know more stuff.  It never works out that way though.  When you do 3 things at once, you give them each 33% of your attention, not 100% of it.  The information equivalent is trading knowledge for raw data.  What good is the data?  Does it really matter if you can't extract knowledge?  The world very clearly answers no in a lot of cases.  But dear God, look at what cultures can do by focusing on perfecting something exclusively.  Read up on the intricacy and beauty of the [Japanese Tea Ceremony](http://en.wikipedia.org/wiki/Japanese_tea_ceremony) for instance, or [Calligraphy](http://en.wikipedia.org/wiki/Calligraphy), or even.. [Donald Knuth](http://en.wikipedia.org/wiki/Donald_knuth).
 
 Yes, yes I know, strange tact (that is, if you know who Donald Knuth is).  But really, Knuth is the developer of the Japanese Tea Ceremony while all the rest of us just drink Lipton.  We drink a lot of tea, but we haven't figured out the economies of motion that produce grace, and we never even intuit a deeper meaning to what we're doing.  Knuth paused an entire lifetime, and devoted it to the perfection of a brand new art, computer programming.  And isn't it a wonder that his books are the ultimate resource for the fundamentals of the entire field.  Want to really learn Computer Science?  Fine, go grab [TAOCP](http://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) and spend [10 years](http://norvig.com/21-days.html) with them.

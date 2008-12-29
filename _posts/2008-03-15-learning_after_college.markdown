@@ -3,9 +3,6 @@ layout: post
 title: Learning After College
 ---
 
-{:quote:     code_background_color='#efffef'}
-
-
 I am now over five years out from college.  Five years seems to hold no particular substance beyond any other measure, aside from being used by industry as a benchmark for someone that now has a little bit of experience under their belt.  (This, I'm quite sure, is an arbitrary measurement linked to some facile business practice developed by someone who found the number of fingers on his hand fascinating.)  I do feel more experienced than I did when I left college.  Perhaps I feel more aware - I have a very Confucian feeling of my ignorance.  When I left college, I had a very large head planted firmly on my shoulders.  I had an engineering degree, which is no small feat compared to other degrees, and that degree commanded a salary beyond most college hires.  It seems inevitable that some form of arrogance will result.  It was a foolish arrogance though, based squarely in not knowing (and not wanting to know).
 
 ### UML is teh winnar!!11!1
@@ -77,4 +74,3 @@ That's it, that's what it takes to keep learning.  Come to think of it, this fo
 		'I shall break in two,'man whines again.
 		'Break!'
 		-Kazantzakis, St. Francis
-{:quote}

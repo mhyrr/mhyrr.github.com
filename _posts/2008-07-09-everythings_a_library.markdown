@@ -55,11 +55,11 @@ We can make the same case for even more basic language constructs, like loops. 
 Ruby lets me write
 
 	(1..100).each {|i| ..}  
-{:ruby}
+	
 C let's me write
 
 	for (int i = 0; i <= 100; i++) {...}
-{:c}
+	
 Lisps use tail recursion.  But what does any of that matter when I can simply store a number in a register, perform some set of operations, and then iterate the register manually, and check the register manually?  God help me, but if I had to do that, I'd want to write a library for it.
 
 #### Power
@@ -75,7 +75,7 @@ Here's problem 20 from Project Euler:
 		n! means n * (n - 1) * ... * 3 * 2 * 1
 
 		Find the sum of the digits in the number 100!
-{:quote}
+		
 
 Relatively simple, but requires a little bit of work.  Certainly not something you'd want to compute by hand, or by calculator.  
 100! is 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000.  
@@ -99,7 +99,7 @@ Wow!  1 Line!  But what's all this inject and |foo| nonsense?  How are we dea
 Here's one more solution I pulled from the Project Euler forums, courtesy of nsg.  This is about as terse as I think you can get.  The J Language is known for that sort of thing:
 
 	+/"."0":!100x
-{:c}
+	
 
 Yes, that really is the whole thing.  13 characters.
 

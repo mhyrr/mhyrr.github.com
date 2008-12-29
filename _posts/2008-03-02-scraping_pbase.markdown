@@ -4,8 +4,6 @@ title: Scraping PBase
 CSS: /css/syntax.css
 ---
 
-{:ruby:     lang=ruby code_background_color='#efefff'}
-
 While I've liked having PBase, my family has decided to move to SmugMug. This was for a number of reasons, but the biggest is simply that PBase works on bandwidth, while SmugMug is a flat annual fee for unlimited storage (I'm not a huge fan of Flickr's interface).
 
 Unfortunately though, this presented a problem. I've got a lot (* GB) of photos on PBase that I don't have on local drives and I want to keep them and put them up on SmugMug. I thought other people might occasionally run into this problem, so here's the script I'm using to scrape my space and grab them all.

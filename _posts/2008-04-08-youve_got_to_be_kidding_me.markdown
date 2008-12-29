@@ -4,8 +4,6 @@ title: You've Got To Be Kidding Me
 ---
 
 
-{:shell:     lang=sh code_background_color='#efffef'}
-
 <img src="http://imgs.xkcd.com/comics/e_to_the_pi_times_i.png" height="481" width="400" />
 
 Sometimes the universe is just weird.  Not weird in the things-are-really-completely-random way, but in the profound-truth-that-I-can't-possibly-understand way.  You know, [Banack-Tarski Paradox](http://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) weird.  [Euler's Identity](http://en.wikipedia.org/wiki/Euler%27s_identity) weird.  Weird like Monty Hall weird.
@@ -89,7 +87,7 @@ Here's the results from 2 runs:
 	Door 3:	333159
 	Correct: 666985, 67%
 	Incorrect: 333015, 33%
-{:sh}
+	
 It works out.  But it's still non-intuitive.  I just love that the world works like that sometimes.  If things were always real simple, the entire Universe would be completely knowable, and that would be boring.  So rejoice when things are weird.
 
 If you really, really want the code part.. fine, here it is:
