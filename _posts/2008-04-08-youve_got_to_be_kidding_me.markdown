@@ -6,7 +6,7 @@ title: You've Got To Be Kidding Me
 
 <img src="http://imgs.xkcd.com/comics/e_to_the_pi_times_i.png" height="481" width="400" />
 
-Sometimes the universe is just weird.  Not weird in the things-are-really-completely-random way, but in the profound-truth-that-I-can't-possibly-understand way.  You know, [Banack-Tarski Paradox](http://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) weird.  [Euler's Identity](http://en.wikipedia.org/wiki/Euler%27s_identity) weird.  Weird like Monty Hall weird.
+Sometimes the universe is just weird.  Not weird in the things-are-really-completely-random way, but in the profound-truth-that-I-can't-possibly-understand way.  You know, [Banack-Tarski Paradox](http://en.wikipedia.org/wiki/Banach-Tarski_paradox) weird.  [Euler's Identity](http://en.wikipedia.org/wiki/Euler's_identity) weird.  Weird like Monty Hall weird.
 
 Ok, I don't really mean Monty Hall, I mean the Monty Hall Problem named after him.  But I'm sure he is weird.  Everything that was popular in the 70s was weird.
 
