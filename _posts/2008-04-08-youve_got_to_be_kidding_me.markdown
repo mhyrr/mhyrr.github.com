@@ -90,5 +90,5 @@ Here's the results from 2 runs:
 	
 It works out.  But it's still non-intuitive.  I just love that the world works like that sometimes.  If things were always real simple, the entire Universe would be completely knowable, and that would be boring.  So rejoice when things are weird.
 
-If you really, really want the code part.. fine, here it is:
-<a href="http://infiniteabyss.org/code/ruby/montyhall.rb">Monty Hall in Ruby</a>
+Here's the bad code to do it:
+<script src="http://gist.github.com/42591.js"> </script>
