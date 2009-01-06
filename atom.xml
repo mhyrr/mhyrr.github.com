@@ -4,13 +4,13 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Greg Olsen</title>
+ <title>Ruminations</title>
  <link href="http://mhyrr.github.com/atom.xml" rel="self"/>
  <link href="http://mhyrr.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://mhyrr.github.com/</id>
  <author>
-   <name>Greg Olsen</name>
+   <name>Greg</name>
    <email>foo</email>
  </author>
 
