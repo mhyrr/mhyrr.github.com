@@ -67,8 +67,8 @@ ul.posts {
   }
 
   ul.posts span {
-    color: #657875;
-    font-family: Monaco, "Helvetica", monospace;
+    color: #DAE5C3;
+    font-family: "Helvetica", arial, monospace;
     font-size: 80%;
   }
 
@@ -108,11 +108,11 @@ ul.posts {
   }
   
   .site .title a.extra:hover {
-    color: 364547;
+    color: #364547;
   }
 
   .site .meta {
-    color: #aaa;
+    color: #DAE5C3;
   }
 
   .site .footer {
@@ -129,8 +129,12 @@ ul.posts {
     }
     
       .site .footer .contact a {
-        color: #8085C1;
+        color: #99AD87;
       }
+
+	  .site .footer .contact a:hover{
+		color: #657875;
+	  }
     
     .site .footer .rss {
       margin-top: 1.1em;
