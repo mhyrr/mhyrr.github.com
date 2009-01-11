@@ -124,6 +124,11 @@ ul.posts {
     overflow: hidden;
   }
   
+	.site .footer .info {
+		float: left;
+		margin-right: 3em;
+	}
+
     .site .footer .contact {
       text-align: center;
       margin-right: 3em;
