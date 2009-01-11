@@ -35,7 +35,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #364547;
 }
 
 a:hover {
@@ -43,7 +43,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #657875;
 }
 
 table {
@@ -67,8 +67,8 @@ ul.posts {
   }
 
   ul.posts span {
-    color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
+    color: #657875;
+    font-family: Monaco, "Helvetica", monospace;
     font-size: 80%;
   }
 
@@ -87,13 +87,13 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #2F5057;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #2F5057;
     text-decoration: none;
   }
   
@@ -102,13 +102,13 @@ ul.posts {
   }
 
   .site .title a.extra {
-    color: #aaa;
+    color: #657875;
     text-decoration: none;
     margin-left: 1em;
   }
   
   .site .title a.extra:hover {
-    color: black;
+    color: 364547;
   }
 
   .site .meta {
@@ -117,8 +117,8 @@ ul.posts {
 
   .site .footer {
     font-size: 80%;
-    color: #666;
-    border-top: 4px solid #eee;
+    color: #99AD87;
+    border-top: 4px solid #DAE5C3;
     margin-top: 2em;
     overflow: hidden;
   }
