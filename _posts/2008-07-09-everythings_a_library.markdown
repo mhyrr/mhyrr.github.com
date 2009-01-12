@@ -11,7 +11,7 @@ I'm going to be rambling for awhile at a ten thousand foot level on computing an
 
 #### Main()
 
-Recently I've been doing some reading on various programming languages and their various flavors.  This is part of my catch up from an [epic failure](http://icanhascheezburger.com/2007/11/07/epic-fail/) of education.  I've been [doing it wrong](http://icanhascheezburger.com/2007/03/14/youre-doing-it-wrong/).  (Alright, enough needless links.  I admit it - it was just to play with the Blogging bundle's markdown features - which apparently also screw up code written in block quotes earlier - doh!).
+Recently I've been doing some reading on various programming languages and their various flavors.  This is part of my catch up from an [epic failure](http://icanhascheezburger.com/2007/11/07/epic-fail/) of education.  I've been [doing it wrong](http://icanhascheezburger.com/2007/03/14/youre-doing-it-wrong/). 
 
 There seems to be a general consensus that it's important to use a popular language for a big project (1); more important, in fact, than the language's intrinsic feature set.  That's kind of interesting by itself, since the general consensus is also that choosing a language for a project based on a priori knowledge of the language is shortsighted.  I'm not sure yet how these jive together, but I do agree that the number of developers working with a given language - and thus the libraries, tools and general knowledge available - is important to the quality of a project.
 
