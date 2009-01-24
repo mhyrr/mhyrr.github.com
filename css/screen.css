@@ -125,7 +125,7 @@ ul.posts {
 	}
 	
 	#linkbar {
-		background-color:#334D66;
+		background-color:#FFFFFF;
 	}
 	#linkbar li {
 		display:inline-block;
@@ -135,6 +135,10 @@ ul.posts {
 		color:#EEEEEE;
 		text-decoration:none;
 	}
+	#linkbar li img {
+		float: right;
+	}
+	
 
   .site .title a {
     color: #2F5057;
