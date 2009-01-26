@@ -70,9 +70,8 @@ ul.posts {
   }
 
   ul.posts span {
-    color: #DAE5C3;
-    font-family: "Helvetica", arial, monospace;
-    font-size: 80%;
+    color: #B64926;
+    font-family: "Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;
   }
 
   ul.posts a {
@@ -129,6 +128,10 @@ ul.posts {
 	}
 	#linkbar li a {
 		color:#FFF0A5;
+		text-decoration:none;
+	}
+	#linkbar li a:hover {
+		color:#FFB03B;
 		text-decoration:none;
 	}
 
