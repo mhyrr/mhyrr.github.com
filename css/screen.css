@@ -30,27 +30,23 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
-  color: #2F5057;
+  color: #468966;
 }
-/*
-h1 {
-  margin-bottom: 1em;
-}
-*/
+
 p {
   margin: 1em 0;
 }
 
 a {
-  color: #364547;
+  color: #8E2800;
 }
 
 a:hover {
-  color: black;
+  color: #B64926
 }
 
 a:visited {
-  color: #657875;
+  color: #468966;
 }
 
 table {
@@ -83,27 +79,20 @@ ul.posts {
 	text-decoration: none;
   }
 
+
 /*****************************************************************************/
 /*
-/* Site
+/* Title
 /*
 /*****************************************************************************/
 
-.site {
-  font-size: 110%;
-  text-align: justify;
-  width: 40em;
-  margin: 3em auto 2em auto;
-  line-height: 1.5em;
-}
 
 .title {
-  color: #2F5057;
+  color: #468966;
   font-weight: bold;
-  margin-bottom: 2em;
+  margin-bottom: 0em;
 }
 	.title h1 {
-		color:#444444;
 		font-family:Georgia,"Times New Roman",times-roman,serif;
 		font-size:3em;
 		letter-spacing:-1px;
@@ -111,6 +100,7 @@ ul.posts {
 	}
 
 	.title h2 {
+		color: #8E2800;
 		font-family:"Gill Sans","Gill Sans MT",Verdana;
 		font-size:1.5em;
 		font-weight:bold;
@@ -120,52 +110,71 @@ ul.posts {
 		margin-top:-5px;
 		text-transform:uppercase;
 	}
-	
+
+
+	/*****************************************************************************/
+	/*
+	/* Linkbar
+	/*
+	/*****************************************************************************/
+
+
 	#linkbar {
-		background-color:#444444;
-		margin-bottom: 2em;
+		background-color:#8E2800;
+		margin-bottom: 1em;
 	}
 	#linkbar li {
 		display:inline-block;
 		margin:0.5em 1em;
 	}
 	#linkbar li a {
-		color:#EEEEEE;
+		color:#FFF0A5;
 		text-decoration:none;
 	}
-	#linkbar li img {
-		
-		float: right;
-	}
-	
+
+
+	/*****************************************************************************/
+	/*
+	/* Site
+	/*
+	/*****************************************************************************/
+
+.site {
+  font-size: 100%;
+  text-align: justify;
+  width: 40em;
+  margin: 3em auto 2em auto;
+  line-height: 1.5em;
+}
+
 
   .site .title a {
-    color: #2F5057;
+    color: #8E2800;
     text-decoration: none;
   }
   
   .site .title a:hover {
-    color: black;
+    color: #B64926;
   }
 
   .site .title a.extra {
-    color: #657875;
+    color: #B64926;
     text-decoration: none;
     margin-left: 1em;
   }
   
   .site .title a.extra:hover {
-    color: #364547;
+    color: #B64926;
   }
 
   .site .meta {
-    color: #DAE5C3;
+    color: #FFB03B;
   }
 
   .site .footer {
     font-size: 80%;
-    color: #99AD87;
-    border-top: 4px solid #DAE5C3;
+    color: #444444;
+    border-top: 4px solid #8E2800;
     margin-top: 2em;
     overflow: hidden;
   }
@@ -181,11 +190,11 @@ ul.posts {
     }
     
       .site .footer .contact a {
-        color: #99AD87;
+        color: #8E2800;
       }
 
 	  .site .footer .contact a:hover{
-		color: #657875;
+		color: #B64926;
 	  }
     
     .site .footer .rss {
