@@ -116,13 +116,14 @@ ul.posts {
 		font-weight:bold;
 		letter-spacing:-1px;
 		margin-bottom:5px;
-		margin-left:200px;
+		margin-left:260px;
 		margin-top:-5px;
 		text-transform:uppercase;
 	}
 	
 	#linkbar {
 		background-color:#444444;
+		margin-bottom: 2em;
 	}
 	#linkbar li {
 		display:inline-block;
