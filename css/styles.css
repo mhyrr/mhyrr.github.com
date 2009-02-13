@@ -1,0 +1,25 @@
+ul {
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+ul#linkbar li {
+	font-size: 18px;
+	margin: 2px 40px 0 25px;
+}
+
+ul#linkbar li a {
+	text-decoration: none;
+}
+
+#home h1 {
+	margin-top: 18px;
+	margin-left: 25px;
+}
+
+#home ul {
+	margin: 5px 20px 20px 35px;
+}

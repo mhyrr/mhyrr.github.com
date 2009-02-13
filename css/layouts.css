@@ -14,11 +14,60 @@ body {
 }
 
 #header h1 {
-	margin-left: 120px;
+	margin-left: 130px;
 	margin-top: 20px;
 	margin-bottom: 0px;
 }
 
 #header h2 {
-	margin-left: 280px;
+	margin-left: 420px;
 }
+
+ul#linkbar {
+	position: relative;
+	left: 105px;
+	width: 690px;
+}
+
+ul#linkbar li {
+	float: left;
+}
+
+#main {
+	margin-right: 95px;
+	margin-left: 95px;
+/*	padding: 10px;
+	background-color: #444444;*/
+	padding: 2px;
+	border: 8px solid #444444;
+}
+
+#footer-container {
+	height: 110px;
+	width: 100%;
+	margin: 0 0 0 0;
+}
+
+#info {
+	position: relative;
+	left: 105px;
+	top: 30px;
+}
+
+#rss {
+	position: relative;
+	left: 805px;
+/*	top: -65px;*/
+}
+
+#contact {
+	position: relative;
+	left: 105px;
+	top: -65px;
+	width: 690px;
+	text-align: center;
+	margin: 0 0 5px 0;
+}
+
+
+
