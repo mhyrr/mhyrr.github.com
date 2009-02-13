@@ -57,13 +57,15 @@ ul#linkbar li {
 #rss {
 	position: relative;
 	left: 805px;
+	height: 64px;
+	width: 64px;
 /*	top: -65px;*/
 }
 
 #contact {
 	position: relative;
 	left: 105px;
-	top: -65px;
+	top: -110px;
 	width: 690px;
 	text-align: center;
 	margin: 0 0 5px 0;
