@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Ruminations</title>
- <link href="http://mhyrr.github.com/atom.xml" rel="self"/>
- <link href="http://mhyrr.github.com/"/>
+ <link href="http://www.infiniteabyss.org/atom.xml" rel="self"/>
+ <link href="http://www.infiniteabyss.org/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://mhyrr.github.com/</id>
  <author>
