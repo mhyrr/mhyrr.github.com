@@ -24,7 +24,7 @@ ul {
 }
 
 ul#linkbar li {
-	font-size: 18px;
+	font-size: 15px;
 	margin: 2px 40px 0 25px;
 	font-family:"Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;
 }
@@ -57,7 +57,7 @@ ul#linkbar li a:hover {
 }
 
 #main {
-	font-size: 125%;
+	font-size: 110%;
 }
 
 #main h1,h2,h3,h4,h5,h6 {
