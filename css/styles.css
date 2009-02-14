@@ -1,10 +1,15 @@
 body {
 	background-color: #f7ffef;
 	color: #141307;
+	background: transparent url(/images/body-bg.jpg) no-repeat fixed -200px -30px
 }
 
 .container {
-	background-color: #ffffff;
+	background: transparent;
+}
+
+#main, #header {
+	background: #ffffff;
 }
 
 a {
@@ -69,7 +74,7 @@ ul#linkbar li a:hover {
 }
 
 #footer {
-	background:#ffffff url(/images/footer-bg.png) repeat-x scroll 0 18px;
+	background:transparent url(/images/footer-bg.png) repeat-x scroll 0 18px;
 }
 
 #contact, #contact a {
