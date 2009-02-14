@@ -48,6 +48,10 @@ ul#linkbar li a:hover {
 	margin: 0 0 0 0;
 }
 
+#post ul, #comments ul {
+	list-style-type: disc;
+}
+
 #home ul, #post ul, #comments ul {
 	margin: 5px 20px 20px 35px;
 }
