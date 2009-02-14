@@ -12,6 +12,15 @@ body {
 	background: #ffffff;
 }
 
+h1.title a {
+	background: #ffffff url(/images/title.png) no-repeat scroll 0 0;
+	float: left;
+	width: 690px;
+	height: 100px;
+	overflow: hidden;
+	margin-left: -38px;
+}
+
 a {
 	color: #703919;
 }
