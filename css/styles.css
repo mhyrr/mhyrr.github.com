@@ -39,12 +39,12 @@ ul#linkbar li a:hover {
 	background-color: #49564c;
 }
 
-#home h1,h2,h3,h4,h5,h6 {
+#home h1, #home h2, #home h3,#home h4,#home h5,#home h6 {
 	margin-top: 18px;
 	margin-left: 25px;
 }
 
-#post h1,h2,h3,h4,h5,h6, #comments h1,h2,h3,h4,h5,h6 {
+#post h1,#post h2,#post h3,#post h4,#post h5,#post h6, #comments h1,#comments h2,#comments h3,#comments h4,#comments h5,#comments h6 {
 	margin: 0 0 0 0;
 }
 
