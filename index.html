@@ -4,7 +4,7 @@ title: Infinite Abyss
 ---
 
 <div id="home">
-  <h1>Articles</h1>
+  <h2>Articles</h2>
   <ul class="posts">
     {% for post in site.posts limit:5 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -12,7 +12,7 @@ title: Infinite Abyss
 	<li><a href="/archives.html">archives...</a></li>
   </ul>
   
-  <h1>Tweets</h1>
+  <h2>Tweets</h2>
   <div id="tweet">
     <p>Please wait..<img src="/images/load.gif" /></p>
   </div>
