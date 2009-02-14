@@ -72,9 +72,11 @@ ul#linkbar li a:hover {
 
 #post code {
 	font-family: Georgia,"Times New Roman",times-roman,serif;
-	font-size: 125%;
+	font-size: 140%;
 	color: #703919;
-	letter-spacing: -1px;
+/*	letter-spacing: -1px;*/
+	font-style: italic;
+	line-height: 1em;
 }
 
 #post img {
