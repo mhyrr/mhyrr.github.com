@@ -9,7 +9,7 @@ body {
 }
 
 #header-container {
-	height:120px;
+	height:119px;
 	width:100%;
 }
 
@@ -39,7 +39,7 @@ ul#linkbar li {
 /*	padding: 10px;
 	background-color: #444444;*/
 	padding: 2px;
-	border: 8px solid #444444;
+	border: 8px solid #141307;
 }
 
 #footer-container {
@@ -51,25 +51,32 @@ ul#linkbar li {
 #info {
 	position: relative;
 	left: 105px;
-	top: 30px;
+	top: 55px;
 }
 
 #rss {
 	position: relative;
 	left: 805px;
+	top: -50px;
 	height: 64px;
 	width: 64px;
+	
 /*	top: -65px;*/
 }
 
 #contact {
 	position: relative;
 	left: 105px;
-	top: -110px;
+	top: -95px;
 	width: 690px;
 	text-align: center;
 	margin: 0 0 5px 0;
 }
 
+#post {
+	margin: 25px 25px 25px 25px;
+}
 
-
+#comments {
+	margin: 25px 25px 25px 25px;
+}

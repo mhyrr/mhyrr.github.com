@@ -1,3 +1,20 @@
+body {
+	background-color: #f7ffef;
+	color: #141307;
+}
+
+.container {
+	background-color: #ffffff;
+}
+
+a {
+	color: #703919;
+}
+
+a:visited {
+	color: #3d1f0e;
+}
+
 ul {
 	list-style-image:none;
 	list-style-position:outside;
@@ -9,17 +26,44 @@ ul {
 ul#linkbar li {
 	font-size: 18px;
 	margin: 2px 40px 0 25px;
+	font-family:"Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;
 }
 
 ul#linkbar li a {
 	text-decoration: none;
+	color: #703919;
 }
 
-#home h1 {
+ul#linkbar li a:hover {
+	color: #f7ffef;
+	background-color: #49564c;
+}
+
+#home h1, #post h1, #comments h1 {
 	margin-top: 18px;
 	margin-left: 25px;
 }
 
-#home ul {
+#home ul, #post ul, #comments ul {
 	margin: 5px 20px 20px 35px;
+}
+
+#post {
+	font-size: 125%;
+}
+
+#post h1,h2,h3,h4,h5,h6 {
+	color: #703919;
+}
+
+#footer-container {
+	background:transparent url(/images/footer-bg.png) repeat-x scroll 0 18px;
+}
+
+#footer {
+	background:#ffffff url(/images/footer-bg.png) repeat-x scroll 0 18px;
+}
+
+#contact, #contact a {
+	color: #f7ffef;
 }
