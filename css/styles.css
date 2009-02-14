@@ -70,10 +70,11 @@ ul#linkbar li a:hover {
 	margin: 5px 20px 20px 35px;
 }
 
-#post pre {
+#post pre, #post code {
 	font-family: Georgia,"Times New Roman",times-roman,serif;
 	font-size: 125%;
 	color: #703919;
+	letter-spacing: -1px;
 }
 
 #main {
