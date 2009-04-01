@@ -1,3 +1,8 @@
+---
+layout: post
+title: Great Words
+---
+
 ## Language
 
 Philology is an interesting study.  Tolkien was a diehard - that alone should tell you something.  He invented something over 20 languages in his lifetime.  I've always been horrible with foreign languages, which is perhaps amusing given that I write code for a living.  Code is something different though, more a grammar and a syntax than actual language.  But it has the same abilities in articulating dense thought.
