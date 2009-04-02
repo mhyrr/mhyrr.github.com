@@ -1,3 +1,8 @@
+---
+layout: post
+title: Other Random Stuff
+---
+
 ##  Wine 
 
 Tasting notes for the good stuff.. 
