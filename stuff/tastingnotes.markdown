@@ -11,10 +11,10 @@ Tasting notes for the good stuff..
 
 
 ####  1997 Dominus 
-
+![5 stars](/images/5star.png)
 Wow.  Not enough I can say here.  I never seem to worry about how much I pay for a bottle of wine until it's time to open it - then anxiety abounds.  Will it be ready?  Was it too much money?  Will I enjoy it?  Am I crazy?  Luckily, one waft of this Dominus, and I was content.  The nose sort of pours itself out of the glass and spreads like dry ice; full of pungent wet earth and tart plummy fruits.  Cigar box, cinnamon, and chocolate.  Every really great wine I've tried I liked the nose at least as much as the palate.  Beautiful mouthfeel, velvety and voluptuous, but still very soft.  There's a noted difference between this (Cab/Cab Franc) and some other Cali Cabs in feel that are Cab/Merlot.  Really, REALLY good.
 
-![5 stars](/images/5star.png)
+
 
 ####  2004 Ironhorse T Bar T Vineyard Cuvee R 
 
