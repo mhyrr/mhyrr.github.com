@@ -68,7 +68,7 @@ But this sucks too.  In fact I had a series of interviews with a company that we
 
 So that's not so good.  In fact, the only reasonable solution I can think of seems to be: hire people that are already in your "worked-with" social graph, allowing for path length of 2.  In other words, only hire or bring on people that you've worked well with personally or that come highly recommended by someone you've worked with personally.  I think I have a lot more to say about this idea, but I'll save it for another evening, hopefully soon.
 
-The only major omplication with the "worked-with" graph is the severe limit you place on personnel.  You are pulling from a much smaller pool.  If you listen to Joel Spolsky, Steve Yegge, or any of those sort of folks, the amazing candidates aren't generally out there for hire, so it isn't as if you're missing anything anyway.
+The only major complication with the "worked-with" graph is the severe limit you place on personnel.  You are pulling from a much smaller pool.  If you listen to Joel Spolsky, Steve Yegge, or any of those sort of folks, the amazing candidates aren't generally out there for hire, so it isn't as if you're missing anything anyway.
 
 #### A Conclusion?
 
