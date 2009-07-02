@@ -24,6 +24,7 @@ This rule is easily made more general.  Adding programmers to a project increase
 
 #### Hire Filter
 
+
 When I pair these two statements together, I come up with a rule I want to follow when considering job candidates.
 
 *I need someone I'm looking to hire to prove to me that I should hire them.*
@@ -33,6 +34,7 @@ In other words, the default state of my hire filter, before I've even met you, i
 In most places I've ever been, and probably in most places everywhere, this isn't done.  Reading various articles about Google (notably Steve Yegge) leads one to the conclusion that Google implements something akin to a default no-hire policy.  They're more willing to take false negatives than they are false positives.
 
 #### Well, he's reasonably intelligent..
+
 
 For everyone involved, including the interviewee, this should make complete sense.  It's just not very "nice", and maybe that's the reason not many people do it.  I'm not really sure.  I know I've been in that situation before too though.  I've seen someone's resume and thought, "hey, not bad."  Then, I've seen them in an interview and thought, "Well, he's reasonably intelligent..."
 
@@ -54,9 +56,11 @@ Well, yes.  Find someone that blows you away.  Find someone that has an amazing 
 
 #### Evil-ness
 
+
 Having your default be [NO HIRE](http://github.com/raganwald/homoiconic/blob/master/2009-06-26/no_hire.md#readme) sidesteps other interesting issues too, most notably evil hire practices.  The only reason some company would be ridiculous enough to want access to someone's social networking profiles is to actively find a magical reason *not* to hire someone.  Is it really that hard?  Just don't hire them!  Then, when you find someone really good you actually do want to hire, you won't care that they have drunk pictures of themselves on Facebook or that they're a member of the NRA.
 
 #### Apprenticeships
+
 
 Even with the no-hire default turned on, interviewing still is not the best thing in the world.  It's exhausting, stressful, uncomfortable, anxious, and you have to deal with lots of people that are either "fucking stupid" or "full of shit".  Fixing the process is a really hard problem, and I don't think there's a good answer out there yet.  My first thought was to bring people on for a trial period of sorts.  You get paid, but you have to prove your worth.  If after 6 months you've had substantial positive overall impact, congratulations you're hired.  
 
@@ -67,5 +71,6 @@ So that's not so good.  In fact, the only reasonable solution I can think of see
 The only major omplication with the "worked-with" graph is the severe limit you place on personnel.  You are pulling from a much smaller pool.  If you listen to Joel Spolsky, Steve Yegge, or any of those sort of folks, the amazing candidates aren't generally out there for hire, so it isn't as if you're missing anything anyway.
 
 #### A Conclusion?
+
 
 To sum up: The default when seeking to fill a position should be no-hire.  This isn't nice on the surface, but it's more honest and solves more problems.   Hiring average fulfills Brook's Law.  Hiring by experiential reference is best.  So what have we learned?  Probably nothing, at least nothing that's going to change anytime soon.  No, that's not true - we learned George Carlin was good at making us laugh at the truth.
