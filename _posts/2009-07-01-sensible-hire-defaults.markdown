@@ -73,4 +73,4 @@ The only major complication with the "worked-with" graph is the severe limit you
 #### A Conclusion?
 
 
-To sum up: The default when seeking to fill a position should be no-hire.  This isn't nice on the surface, but it's more honest and solves more problems.   Hiring average fulfills Brook's Law.  Hiring by experiential reference is best.  So what have we learned?  Probably nothing, at least nothing that's going to change anytime soon.  No, that's not true - we learned George Carlin was good at making us laugh at the truth.
+To sum up: The default when seeking to fill a position should be no-hire.  This isn't nice on the surface, but it's more honest and solves more problems.   Hiring average candidates fulfills Brook's Law.  Hiring by experiential reference is best.  So what have we learned?  Probably nothing, at least nothing that's going to change anytime soon.  No, that's not true - we learned George Carlin was good at making us laugh at the truth.
