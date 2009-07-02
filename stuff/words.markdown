@@ -288,3 +288,6 @@ Anyway, I've been keeping a list over the past couple of years of words I come a
   * tatterdemalion - a person in tattered clothing; a shabby person; ragged
   * syzygy - an alignment of three celestial objects, as the sun, the earth, and either the moon or a planet
   * occidental 
+  * synecdoche
+  * lagniappe
+  * simulacrum
