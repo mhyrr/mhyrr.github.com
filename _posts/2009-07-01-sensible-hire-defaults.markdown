@@ -38,11 +38,13 @@ For everyone involved, including the interviewee, this should make complete sens
 
 And then I remembered George Carlin..  
 
+<blockquote>
 <George Carlin>
 	..Some people are really fucking stupid!
 	Did you ever notice that? How many really stupid people you run into during the day? Goddamn there's a lot of stupid bastards walking around.  Carry a little pad and pencil with you. You'll wind up with thirty or forty names by the end of the day.  Look at it this way: *Think of how stupid the average person is and then realize that half of them are stupider than that.*  And it doesn't take you very long to spot one of them does it?  Takes you about eight seconds.  You'll be listening to some guy...then you'll say..."this guy is fucking stupid!"  
 	Then there are some people, they're not stupid...they're full of shit.  That doesn't take very long to spot either, does it?  Takes you about the same amount of time.  You'll be listening to some guy..and saying, "Well, he's reasonably intelligent......ahh, he's full of shit!"
 </George Carlin>
+</blockquote>
 
 And again, this isn't entirely fair.  If I take a random 30 minute sampling of my intelligence, chances are it's way way below my running average, especially when I'm in a bland room filled with halogen lights and strangers asking me semi-technical questions.  Yeah, that's when I'm at my best.  Yet we all do that to people all the time, and we take that 30 minute sample as the average, and that's why it's so damn hard to figure out if someone is actually any good in an interview in the first place.
 
