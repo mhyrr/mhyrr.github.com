@@ -287,7 +287,25 @@ Anyway, I've been keeping a list over the past couple of years of words I come a
   * aposiopesis - a sudden breaking off in the midst of a sentence, as if from inability or unwillingness to proceed
   * tatterdemalion - a person in tattered clothing; a shabby person; ragged
   * syzygy - an alignment of three celestial objects, as the sun, the earth, and either the moon or a planet
-  * occidental 
-  * synecdoche
-  * lagniappe
-  * simulacrum
+  * occidental - denoting or characteristic of countries of Europe and the Western Hemisphere
+  * synecdoche - substituting a more inclusive term for a less inclusive one
+  * lagniappe - a small gift (especially one given by a merchant to a customer who makes a purchase)
+  * simulacrum - a slight, unreal, or superficial likeness or semblance
+  * aspic - a savory jelly usually made with meat or fish stock and gelatin, chilled and used as a garnish and coating for meats, seafoods, eggs, etc.
+  * epaulets - an ornamental shoulder piece worn on uniforms, chiefly by military officers
+  * ostinato - a constantly recurring melodic fragment
+  * indigent - lacking food, clothing, and other necessities of life because of poverty; needy; poor; impoverished
+  * jamais vu - a disorder of memory characterized by the illusion thatthe familiar is being encountered for the first time
+  * chamois - a soft, pliable leather from any of various skins dressed with oil
+  * demitasses - a small cup for serving strong black coffee after dinner
+  * divagating - to wander; stray
+  * probity - integrity and uprightness; honesty
+  * cudgel - a short, thick stick used as a weapon; club
+  * quelle plaisir - what a pleasure
+  * accrete - to grow together; adhere
+  * quincunx - an arrangement of five objects, as trees, in a square or rectangle, one at each corner and one in the middle
+  * imprecation
+  * ecce signum - behold the sign (or proof)
+  * adipocere - a waxy substance produced by the decomposition of dead animal bodies in moist burial places or under water
+  * raconteur - a person who is skilled in relating stories and anecdotes interestingly
+  * mensch - a person of integrity and honor
