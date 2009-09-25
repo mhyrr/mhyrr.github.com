@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter to the SEB: 2009 Nationals Courses, Thoughts, and Thanks
+title: Letter to the SEB - 2009 Nationals Courses, Thoughts, and Thanks
 ---
 
 SEB,
