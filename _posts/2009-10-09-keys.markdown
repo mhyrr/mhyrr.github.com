@@ -1,0 +1,47 @@
+---
+layout: post
+title: Standard Keyboard Shortcuts for Text Navigation
+---
+
+Keyboard shortcuts are the fundamental key to speed and efficiency in dealing with a computer.  Nowhere is this more visible than the text editor: still both the most basic and the most profound computer application.
+
+Editors pushed keyboard shortcutting in the 1970s to places most people still never see, and never will see. 
+
+While it's clear that most users, even advanced users, will never care to grok the many Vim navigation techniques, there's still a huge world of improvement for even simple tasks.  But before we get into them, there's the question of *why* most users will never use :%s/search/replace/c or even M-x M-c.  Duh, most people use the mouse.  Most people use Windows too.  They don't get the chutzpah of Unix, the power of little tiny commands and manipulations for atomic tasks.  
+
+Even as far as editors go, there's a big dispute between which way editors roll too.  I've read some articles lately that flatten IDEs like Eclipse because they're built to manipulate Java.  What a short-sighted perspective.  Java as a language is limited.  It will never be equal to some (most..) of the languages out there.  But the power of a language is not equivalent to the power of an editor's tooling for that language.  The inferiority actually requires more powerful tooling.  As a manipulator of text, I want to use powerful tools.  Emacs and Vim are great options.  TextMate is a great option (and what I generally use at home; what I'm using now in fact.)  But Eclipse and it's derivatives are also good options for specific forms of text manipulation. 
+
+I think the reason the IDE gets maligned is actually much more basic than language features or tooling abilities.  It's the mouse.  The keyboard is the tool for power.  The mouse is the sign of a n00b.  Because many users of Eclipse rely heavily on the mouse, it's perceived as a tool for lesser users.
+
+To be fair, this is justifiable.  Project manipulation in an IDE is mouse-based and it sucks.  The end result is that setting up a codebase gets perceived as magic rather than a set of knowable steps on the command line.  The Eclipse Text Editor is great for manipulating and sloshing through code though, and I actually enjoy the tooling that exists.  It's powerful and dead useful.  I think some of it could be a simple standard for most graphical text editors, including browsers.  Here are a couple of examples.
+
+### Ctrl-Left/Right Arrow
+**Ctrl-left arrow moves the cursor one word to the left.**
+**Ctrl-right arrow moves the cursor one word to the right.**
+
+For most text editors, this is standard now, but for some it's not.  Flex's Text components don't implement this by default and it pisses me off, because Flex is usually so good about things like this.
+
+### Ctrl-Backspace
+**Ctrl-backspace deletes a word.**
+
+This isn't strictly true.  It generally does some smarter manipulation based on punctuation and case.  So someStupidVariable| would actually become someStupid|.  Again, not everyone does this now, but they really should.  And you should use it.  Constantly.
+
+### Ctrl-Mouse Wheel
+**Ctrl-mouse wheel fast scrolls one page of text.**
+
+This is basically equivalent to Page Up or Page Down.  It's a great way to skim quickly through a large file that's for some reason more navigable than using Page Up/Page Down.  This would be of great use in a browser especially.  Who really needs to increase and decrease text size that quick?  Come on Firefox!
+
+### Ctrl-Up/Down Arrow
+**Ctrl-up arrow slides the window of text up one line while maintaining cursor position.**
+**Ctrl-down arrow slides the window of text down one line while maintaining cursor position.**
+
+Less commonly used but equally nice.  Want more of that paragraph or method implementation viewable but don't want to lose your cursor position?  Get it in there, without reaching for the mouse!  I remember finding Ctrl-L in Emacs and being oddly giddy over it.
+
+### Ctrl-Space
+***Ctrl-space provides a list of possible word completions, based upon either a local lookup or a standard dictionary.**
+
+The above is strictly true for method/property completion too.  If completing from *this*, it's a "local lookup"; otherwise it's grabbing possible completions from a "dictionary" (class library).
+
+This is the real granddaddy.  Can't you see writing a technical email to someone in GMail, forgetting the exact spelling of Amdahl but knowing you've already written it somewhere else in your paper?  Ctrl-Space!  You know there's a great word for bells that sounds like cari-- but you're drawing a blank?  Ctrl-Space and get your carillon.
+
+I'm sorry, but this would be so sick.  Using Ctrl-Space in a browser or non-IDE text editor as a dictionary lookup would be pretty amazing.
