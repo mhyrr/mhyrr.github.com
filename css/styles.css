@@ -1,7 +1,7 @@
 body {
 	background-color: #f7ffef;
 	color: #141307;
-	background: transparent url(/images/body-bg.jpg) no-repeat fixed -180px -30px
+	background: transparent url(../images/body-bg.jpg) no-repeat fixed -180px -30px
 }
 
 .container {
@@ -13,7 +13,7 @@ body {
 }
 
 h1.title a {
-	background: #ffffff url(/images/title.png) no-repeat scroll 0 0;
+	background: #ffffff url(../images/title.png) no-repeat scroll 0 0;
 	float: left;
 	width: 690px;
 	height: 100px;
@@ -92,11 +92,11 @@ ul#linkbar li a:hover {
 }
 
 #footer-container {
-	background:transparent url(/images/footer-bg.png) repeat-x scroll 0 18px;
+	background:transparent url(../images/footer-bg.png) repeat-x scroll 0 18px;
 }
 
 #footer {
-	background:transparent url(/images/footer-bg.png) repeat-x scroll 0 18px;
+	background:transparent url(../images/footer-bg.png) repeat-x scroll 0 18px;
 }
 
 #contact, #contact a {
