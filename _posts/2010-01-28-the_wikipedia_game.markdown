@@ -8,11 +8,8 @@ I've created a new game.  Quite originally, I've called it the Wikipedia Game.
 Here's how you play:
 
 1.  Choose a destination Wikipedia page at random.
-
 2.  Start at the Wikipedia main page.  
-
 3.  Using only the mouse (i.e. only hyperlinks), try to navigate to the chosen Wikipedia page (1).  You may use only the content of the page; no special pages along the sidebars/top/bottom.  For the main page, you may use the blue, green, and purple sections.
-
 4.  The person with the least number of hops (pages) wins.  Alternatively, the person that gets there in the least amount of time wins.
 
 This is sort of neat for several reasons.  [Wikipedia](http://en.wikipedia.org/wiki/Main_Page) is an enormous hyperconnected graph of information.  The challenge is a combination of speed, knowledge, and intuition based on what connections articles have.  I'm not convinced that there's a path from any article to any other article (in the limit case at least), but this can generally be accepted as true.  The browser takes care of recording a player's moves, so you can follow paths anywhere and if it doesn't pan out you just use the back button to retreat.  The browser will always report the last path, so when you arrive at the destination you'll have the full history (and it's easy to check).
