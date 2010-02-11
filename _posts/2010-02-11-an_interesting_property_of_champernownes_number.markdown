@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An interesting property of Champernowne's Number
+title: An Interesting Property of Champernowne's Number
 ---
 
 ### What is it?
