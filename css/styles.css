@@ -53,6 +53,10 @@ ul#linkbar li a:hover {
 	background-color: #49564c;
 }
 
+#post p {
+	word-wrap: break-word;
+}
+
 #home h1, #home h2, #home h3,#home h4,#home h5,#home h6 {
 	margin-top: 18px;
 	margin-left: 25px;
