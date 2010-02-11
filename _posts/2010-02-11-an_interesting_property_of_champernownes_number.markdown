@@ -31,8 +31,8 @@ There are also an infinite number of finite sequences.  Although I don't have th
 
 Here's the really neat one (I think).  Since Champernowne's Number is constructed in a very simple way, it's easy to determine placement of at least one example of any finite sequence.   I wrote a little code to do that.
 
-12 occurs at position 14
-88 occurs at position 166.
+12 occurs at position 14.  
+88 occurs at position 166.  
 456789 occurs at position 2629624.  
 
 You get the idea.  These aren't necessarily the first example, just one.  121 occurs before you get to 120121122, for example.
