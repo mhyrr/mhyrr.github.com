@@ -1,7 +1,17 @@
 ---
 layout: post
-title: The Wikipedia Game
+title: Wikiracing
 ---
+
+### Edit:
+
+Well, I was all excited for about four days before I came across [Wikiracing](http://en.wikipedia.org/wiki/Wikiracing).  I should have known this would have been thought up long ago.
+
+This was going to be a follow up post after talking to my friend Chris.  We thought up waypoints and a better scoring scheme.  Now, the only interesting addition to what already exists is the concept of big bonus points for following a link away from Wikipedia and then another link back into Wikipedia along the path.
+
+Original version kept below for posterity sake.
+
+### Unoriginal original
 
 I've created a new game.  Quite originally, I've called it the Wikipedia Game.
 
