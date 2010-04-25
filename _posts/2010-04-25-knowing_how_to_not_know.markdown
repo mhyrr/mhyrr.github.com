@@ -28,8 +28,7 @@ I still can't get my head out of a book.  I write code in my free time, away fro
 I've read or studied the same things from school later on and found myself captivated.  Why the difference?  The subjects haven't changed, although selections might appeal more or less to different people.  So I can only conclude that the difference lies in the manner in which the subjects were approached.
 
 This may or may not have to do directly with teachers.  Variability exists, but teachers often don't start with the source material they're teaching.  They start with a lesson plan.  Barry Schwartz provides a great example of a horrible curricula in his [TED Talk on the loss of wisdom](http://www.ted.com/talks/barry_schwartz_on_our_loss_of_wisdom.html).  He describes a 75-point lesson plan for reading a 25 page kindergarten book:
-
-	"All over Chicago, every teacher is saying the same words in the same way on the same day ... Scripts like these are insurance policies against disaster.  And they present disaster.  But what they assure in its place is mediocrity."
+"All over Chicago, every teacher is saying the same words in the same way on the same day ... Scripts like these are insurance policies against disaster.  And they present disaster.  But what they assure in its place is mediocrity."
 	
 To anyone above the median, mediocrity is slow.  Worse than slow; mediocrity is a death knell.  The damage of a moderate pace of learning to someone in the 90th or 99th percentile is a sort of smothering effect.  They think, "is this it?  Is this what I have to look forward to?"  It's from a history of this kind that Einstein said "It is in fact nothing short of a miracle that the modern methods of instruction have not yet entirely strangled the holy curiosity of inquiry."
 	
