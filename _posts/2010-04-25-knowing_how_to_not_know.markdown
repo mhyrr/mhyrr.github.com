@@ -12,6 +12,7 @@ If something is innate it means we are born with it.  Children seem to prove thi
 I've been discovering my views about education over the last several years and I've come to find out that I find the current education system deplorable and scary.  I don't want my kids in it.  Aside from the one or two amazing teachers a kid might find in their entire K-12 career, and that's if they are lucky, schools don't cut it.  There are many factors behind this opinion, but one particular reason really stands out.
 
 Schools take what kids *want* to know and transform it into one of two things:  
+
 1.  What they don't care about
 2.  (and worse) What they *ought* to know.
 
