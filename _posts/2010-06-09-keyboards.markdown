@@ -21,7 +21,7 @@ So I added a bit back.  I ditched the wireless keyboard, which is a piece of cra
 
 There's a balance between quiet and clutter.  The best designed workspace is the most usable, not the most beautiful.  This is true for both physical space, computer space, and input devices.  My desk needs some additional items.  It needs a *good* keyboard and mouse.  It needs paper and pens, because some things you just have to work out on paper.  It needs music.  My computer desktop on the other hand is very clean.  There are no gazillion files sitting on the desktop.  Everything is hierarchically ordered and, where applicable, version controlled.  On the other hand, under Expose my desktop looks like a mess.  There's something like 20 windows with tens of tabs in browsers, RSS readers and editors.  There's an interesting balance there.
 
-<img src="http://infiniteabyss.org/images/Desktop.png" height="338" width="600" />
+<img src="http://infiniteabyss.org/images/Desktop.png" height="360" width="640" />
 
 ### Input
 
