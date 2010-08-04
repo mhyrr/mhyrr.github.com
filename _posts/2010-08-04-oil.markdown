@@ -36,6 +36,7 @@ For the long view on energy, an excellent place to start is the marvelously usel
   * f<sub>i</sub> = the fraction of the above that actually go on to develop intelligent life
   * f<sub>c</sub> = the fraction of civilizations that develop a technology that releases detectable signs of their existence into space
   * L = the length of time such civilizations release detectable signals into space.
+
 We care about f<sub>c</sub> and L.
 
 For civilizations to continue beyond a certain point, a combination of planetary resources is necessary.  Oil has convenient ties to early life, so sufficient evolution (on the order of a couple billion years) of carbon-based organisms will produce hydrocarbons suitable for energy.  But additional material is important.  For Earth, it's been a combination of metals, silicon, and carbon.  Elsewhere, perhaps it could be other elements.
