@@ -28,6 +28,7 @@ We need to get back to those fundamental points.  Consider this graph from Hubbe
 There's a lot of similarity to the DOE's more recent graph.  The peak is a touch off, maybe a decade or two.  The language is similar too: "future discoveries" and "unidentified projects".  We should consider Hubbert's predictive power accurate.  He very accurately predicted the same curves for the oil and gas production of Texas and the United States.  On a global scale, we should expect the error to be slightly larger, so a decade or two makes sense.
 
 For the long view on energy, an excellent place to start is the marvelously useless [Drake Equation](http://en.wikipedia.org/wiki/Drake_equation).  The Drake Equation is an estimation for the number of civilizations in the Milky Way galaxy.  The factors stated are:
+
   * R* = the average rate of star formation per year in our galaxy
   * f<sub>p</sub> = the fraction of those stars that have planets
   * n<sub>e</sub> = the average number of planets that can potentially support life per star that has planets
