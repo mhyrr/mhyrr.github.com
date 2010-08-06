@@ -1,0 +1,24 @@
+---
+layout: post
+title: Git: The Next Filesystem
+---
+
+Not too long ago, Google released their cloud storage service called Google Storage.  GS includes a REST API and looks remarkably similar to Amazon S3.  In fact, one of the options is to use the same S3 syntax to access GS.
+
+While principal use is designed to be developers, this presents several questions.  What sort of file system are we moving towards?  What's the difference between storing files locally and in the cloud?  How will the interface differ?  What place will REST have?  How will access, updates, and changes work across multiple devices?
+
+[This sounds awfully like Git](http://eagain.net/articles/git-for-computer-scientists/).
+
+There are problems with Git.  Most especially, its command syntax is obfuscated at best.  It is completely unusable to the average user.  But the general consideration of a [DAG](http://en.wikipedia.org/wiki/Directed_acyclic_graph) with versioning works very well for storage.
+ 
+Consider:  A file system on a box is a strict hierarchy of folders, subfolders, and files.  But the perception of the average user of the items they touch inside a computer is removing itself rapidly from this construct.  We think of songs and photos now, not mp3s and jpgs.  Developers still care, but only insofar as control and collaboration are required.  That's how version control came to be.
+
+Gmail, Gmail conversations, and Gmail tags were a big step away from the filesystem.  Gmail moved everyone away from Outlook or the horrible equivalent and towards a simple web interface to email.  The email is the important thing rather than the Inbox, .pst files, and the application itself.  Rarely does an email stand on its own, and Gmail conversations moved from single emails to email threads, a perfectly sensible structure.  Lastly, tags took email away from folders.
+
+A friend of mine just finished moving from Mail.app to full use of Gmail through the web.  He's an outlier; a power user with over 10 gmail-based accounts, tons of folders, and loads of shared calendars.  He was using Mail.app to manage the multiple accounts based on a folder based structure.  Each email went into one particular folder.  Now, he's using tags to do basically the same thing.  It was a bit of a mind shift, because it requires using multiple tags, but it's far more flexible since emails can be tagged as many times as there are tags.
+
+More and more, users don't care where their data lives or how it gets there.  What they do care about is how seamless it is to access, that it syncs appropriately across all sorts of devices, that if there are different versions, they can update, modify and such.  Which brings us back to Git.  Like many things, the simplicity of the system is the brilliance of it.  A DAG is a very loose data structure, with a lack of cycles and direction as it's only real strictures.
+
+From a user's perspective, three things matter: users, buckets, and data.  Users represent the owners of data and provide namespacing for any uniqueness conflicts.  Buckets are simply places to put data.  Data is any set of bytes, representing.. anything.  With this simplicity, it's possible to build any hierarchy, multiple hierarchies, unique sets, etc. 
+
+Clearly I'm oversimplifying the problems of representing data from bytes, especially the problem of byte structure.  Text and formatting is stored many different ways, which is different from AAU compression, which is different from the PNG format.  But at some point, all of these data access and control services are going to converge.  S3 storage, Google Storage, Dropbox, Github, Git, GMail conversations and tags, and Apple's Time Machine backup are all early examples and variations on a common theme.  Users care about data regardless of what machine they're on, where they are, how they access it and how it gets modified.  There's a lot of complexity under the covers to make things simple.  Git is a really good start.
