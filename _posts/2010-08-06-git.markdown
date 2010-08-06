@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git: The Next Filesystem
+title: "Git: The Next Filesystem"
 ---
 
 Not too long ago, Google released their cloud storage service called Google Storage.  GS includes a REST API and looks remarkably similar to Amazon S3.  In fact, one of the options is to use the same S3 syntax to access GS.
