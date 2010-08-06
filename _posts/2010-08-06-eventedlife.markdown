@@ -9,32 +9,32 @@ Most people, including me, tend to operate their lives based on events, where we
 
 For a wakeup alarm:
 
-> function(evt:AlarmEvent):void {
-> 	if it's a weekday && there's an important early meeting:
-> 		getUp()
-> 	else if it's a weekday && no pressing meeting:
-> 		snooze()
-> 	else it's a weekend:
-> 		turnOffAlarm() //shouldn't have been on!
-> }
+		function(evt:AlarmEvent):void {
+			if it's a weekday && there's an important early meeting:
+				getUp()
+			else if it's a weekday && no pressing meeting:
+				snooze()
+			else it's a weekend:
+				turnOffAlarm() //shouldn't have been on!
+		}
 
 For a meeting:
 
-> function(evt:MeetingEvent):void {
-> 	if it's important:
-> 		dropEverythingImmediatelyAndAttend()
-> 	else
-> 		blatantlyIgnore()
-> }
+		function(evt:MeetingEvent):void {
+			if it's important:
+				dropEverythingImmediatelyAndAttend()
+			else
+				blatantlyIgnore()
+		}
 
 For a phone call:
 
-> function(evt:PhoneCallEvent):void {
-> 	if known_caller:
-> 		answer()
-> 	else
-> 		ignoreAndPonderListeningToStupidVoicemail()
-> }
+		function(evt:PhoneCallEvent):void {
+			if known_caller:
+				answer()
+			else
+				ignoreAndPonderListeningToStupidVoicemail()
+		}
 
 We could use this for ChatEvents, TwitterEvents, FacebookEvents, EmailEvents, and on and on.  The sheer volume of stimuli we respond to today can be overwhelming.  We wait for these things constantly and we hang on the chance to respond.  Even when we ignore the event, we've dealt with it somehow.  The event has still caused an interrupt!  Nothing substantive ever gets done this way.  It sucks.
 
