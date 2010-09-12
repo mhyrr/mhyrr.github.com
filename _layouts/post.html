@@ -3,6 +3,8 @@ layout: default
 ---
 
 <div id="post">
+	<fb:like width="600" font="verdana"></fb:like>
+	<br>
 	{{ content }}
 </div>
 
@@ -13,6 +15,20 @@ layout: default
   <noscript><a href="http://theinfiniteabyss.disqus.com/?url=ref">View the discussion thread.</a></noscript>
   <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: 'your app id', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
 
 <!-- <div id="related">
   <h2>Related Posts</h2>
