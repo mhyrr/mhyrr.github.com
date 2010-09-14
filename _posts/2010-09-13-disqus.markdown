@@ -1,0 +1,17 @@
+---
+layout: post
+title: Discuss Disqus
+---
+
+Is it just me, or is [Disqus](http://disqus.com/) a very big deal?  I don't hear too much talk about them, but they seem to me to be on the edge of very big things.
+
+Consider: 
+
+- Disqus has very solid metrics across many sites on commenters, including: number of comments, length, number of replies, popularity measures, and interests.
+- Disqus maintains storage of all the comments.  They've got a vast graph of internet conversations that can be PageRanked and manipulated just like Google does webpages.
+- All of these comments are easily parsed to show who posts links to what in comparison to what they are commenting on.  The links can also be PageRanked, etc.
+- A set of articulate comments can themselves become part of someone's blog or online presence.  Disqus could join forces with Posterous, or someone else, to present these together.
+- As soon as a couple of big old-world media sites get ahold of Disqus for comments it will blow up.  Imagine the ability to link a commenter from any old blog to a major article in the New York Times.  Or even better, linking comments from Coding Horror, the New York Times, Roger Ebert, The Guardian, and Mark Cuban.
+- As more and more places use them for comments, they are essentially creating the largest internet community, bigger than any forum, woven throughout all sorts of websites.
+
+That seems to have the potential for brilliance.
