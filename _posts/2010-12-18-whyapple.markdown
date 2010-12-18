@@ -1,0 +1,30 @@
+---
+layout: post
+title: Going Forward, Why Apple?
+---
+
+The other day I saw a Sprint 4G commercial, and it crystallized why I have and will continue to choose Apple products for the foreseeable future.  I've known that I would continue in this direction, but its been hard to articulate why (which is frustrating when people ask me).
+
+The commercial emphasized the speed of their new 4G network, saying that it's "Ten times faster than existing 3G networks".  There are a bunch of things wrong with this statement.  First, 4G is used here strictly as marketing.  There is a [4G wireless standard](http://en.wikipedia.org/wiki/4G), and as of this date *none* of the networks out there come anywhere near it.  Second, wireless networks have to cover large land areas and signal strength and capacity vary wildly, so such a blanket statement is impossible to uphold.  These are the obvious problems and I wouldn't even consider anything on Sprint because of them.  But there's something else packed into that one little sentence..
+
+The bigger issue is that Sprint is focused on relative wealth.  Most technology companies are.  The engineering side of technology has always pushed for more MHz and GHz, more RAM, more MBs and GBs, and more Mbps.  These are, on the whole, positive movements; they enrich the computer and make it a more useful tool for more people.  But somewhere in the transition from engineering to marketing the focus and effort into driving technology forward has somehow morphed into a sociological notion of being better than those around you.
+
+Ever hear geeks talk shop?  It's a back and forth of statistics and numbers like 8-core quad Xeon 64 GB with a 10 TB RAID 10 mirrored and striped and dual 8 GB vid cards driving two 90" monitors.  I am a geek and when I hear this I want to say **who gives a shit?**  Nobody should care.. does it work for you or not?  Can you get done what you want to get done or not?  The ironic thing about these stats is the number of people that have this kind of crap and don't use it.  Most people that talk these numbers are using only a small percentage of their actual computing power.  Meanwhile, the mass of computer-buying consumers are sucked into comparing a 2.2 GHz system with a 2.4 GHz system.  It's the wrong question.
+
+Computers are such a young technology that we've been forced into caring about stuff like this.  A photographer taking 1000+ shots per event isn't going to be able to store and backup his collection on a 16 GB hard drive.  So don't get me wrong, this stuff is important.  Computers need to be able to function effectively as tools for an incredibly diverse set of uses.
+
+Which brings us to Apple.  Some would describe me as a fanboi.  I've got an iMac, MacBook Pro, iPad and iPhone.  I have these for a reason: they're the best tools for the job, and they all serve different use cases.  The iMac is home base for all my data and is used for business and coding.  The laptop is my portable, with access to everything on the iMac.  It's also where I do most of my writing.  The iPad is the perfect around-the-house internet appliance.  The iPhone is the best device for communicating anywhere I am.  I've got my GMail, Contacts, and Calendar automatically sync'd on all of these.  It's a good system, one where I can access, consume, or produce data as quickly as possible without the computers getting in the way.
+
+And I was able to describe that whole thing without a single number or figure.  Utility goes beyond facts and figures.  Back when [I wrote some predictions](http://www.infiniteabyss.org/2010/02/24/some_predictions.html), I came to a somewhat startling conclusion:  "**The best computer company in the world KNOWS that most people don't care about computers!**"  This allows Apple to focus on the important question: does it work well enough, or not?  If not, how do we make it better?
+
+This is a focus on absolute wealth, rather than relative wealth.  Where relative wealth is interested in how you're doing compared to those around you, absolute wealth wants to ensure you have sufficient tools available to do whatever it is that you do.  (Interestingly, this pushes Apple products much more towards the notion of a commodity, which is sort of ironic considering they have higher prices.)
+
+The iPhone 4's Retina Display is a perfect example of this.  The marketing focus on the display is not it's resolution (although I think they mention it), ppi, LEDs, IPS, or any other stat.  It very well could have been - that little screen is a [really amazing piece of technology](http://www.pcworld.com/article/198201/iphone_4s_retina_display_explained.html).  But instead they pointed out that the display is so clear that the human eye can't differentiate anything better.  It is, in some sense, the best possible screen of that size that a human can use.  Apple products disregard most of their technical specs.  Laptops and iMacs are based first on screen size.  iOS devices publish drive space, but not RAM, processor and the like.
+
+That puts Sprint's claims into perspective.  Where most technology companies are using a relative scale to beat their competitors, Apple is using a different scale altogether, focused on the fundamental utility of their products.  
+
+And that's why I will continue to use Apple for the foreseeable future.  
+
+
+
+*** As an aside, [The Setup](http://usesthis.com/) is one of my favorite sites.  The breadth and depth of tools described is fascinating, especially when considering their owners.  Mind, it's an interview site on setups, so specificity is understandable. 
