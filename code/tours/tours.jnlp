@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://www.infiniteabyss.org/code/tours">
+<information>
+  <title>Knight's Tour</title>
+  <vendor>Greg Olsen</vendor>
+  <homepage href="http://www.infiniteabyss.org/" />
+  <description>Quick Knight's Tour App</description>
+</information>
+<offline-allowed/>
+<security>
+</security>
+<resources>
+  <j2se version="1.5+" />
+  <jar href="KnightsTour.jar"/>
+</resources>
+<application-desc main-class="ia.org.knightstour.Main" />
+</jnlp>
