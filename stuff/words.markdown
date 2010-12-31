@@ -309,3 +309,16 @@ Anyway, I've been keeping a list over the past couple of years of words I come a
   * adipocere - a waxy substance produced by the decomposition of dead animal bodies in moist burial places or under water
   * raconteur - a person who is skilled in relating stories and anecdotes interestingly
   * mensch - a person of integrity and honor
+  * arachibutyrophobia
+  * litotes
+  * muliebrity
+  * aposiopesis
+  * myoclonic jerk
+  * velleity
+  * ugsome
+  * periphrasis
+  * fictile
+  * glabrous
+  * sternutation
+  * quinquennial
+  * orthology
