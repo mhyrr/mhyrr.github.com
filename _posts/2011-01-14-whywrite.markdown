@@ -1,0 +1,12 @@
+---
+layout: post
+title: Why Everyone Should Write
+---
+
+I have [several](http://www.paulgraham.com/essay.html) [favorite](http://www.petermichaud.com/essays/the-secret-about-writing-that-no-one-has-the-balls-to-tell-you/) [answers](http://www.sebastianmarshall.com/how-do-i-write-so-much-you-ask-well-glad-you-asked) to [this](http://www.paulgraham.com/discover.html) [question](http://www.sebastianmarshall.com/how-do-i-write-so-much-you-ask-well-glad-you-asked).  Here's mine:
+
+Being able to answer questions reasonably is a sign of cleverness.
+
+Being able to ask the right questions is a sign of wisdom. 
+
+Writing forces one to think about the right questions so that maybe occasionally cleverness can transform into wisdom.
