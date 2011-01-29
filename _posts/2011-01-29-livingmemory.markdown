@@ -19,19 +19,19 @@ The notion of living memory has been basically the same through all of human his
 
 The last hundred or so years have really started to change that.  First the daguerrotype and then the photograph.  Then moving film and TV.  Now, the internet.  These have changed, with very little fanfare, our collective memory.  We can see photographs from the 1800s.  We know what Lincoln looked like.  We know what street scenes looked like.  We have footage from World War I, World War II, and the Holocaust.  Between Flickr, YouTube, and many others, the last few years are the best documented in history.  For [better](http://www.youtube.com/watch?v=ji5_MqicxSo) or [worse](http://www.youtube.com/watch?v=EwTZ2xpQwpA).
 
-</br>
+   
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Boulevard_du_Temple_by_Daguerre.jpg/600px-Boulevard_du_Temple_by_Daguerre.jpg"/>
-</br>
+   
 Paris in 1838
 
-</br>
+    
 <img src="http://upload.wikimedia.org/wikipedia/commons/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg"/>
-</br>
+    
 Leo Tolstoy in 1908
 
-</br>
+    
 <img src="http://0.tqn.com/d/dc/1/7/D/R/Page1.jpg"/>
-</br>
+    
 The Capitol in 1861
 
 I wonder how this will continue to change in the future.  I love the more timeless concept behind the internet startup [1000memories](http://1000memories.com/).  I'm glad we will have these memories to learn from in the future.  But it's increasingly our cultural responsibility to deal with this massive amount of information well.  The media has become increasingly nit-picky and focused on every wrong, misstep, or change in every public figure or public policy.  Pessimism sells, which is unfortunate.  We need more 1000memories.  More [longbets](http://www.longbets.org/).  More [Wikipedias](http://en.wikipedia.org/wiki/Main_Page).  
