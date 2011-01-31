@@ -7,7 +7,7 @@ layout: post
 
 Walter's memory, in fact, is unbelievable.  He remembers his childhood well, when they had only kerosene lamps and horses were the only form of transportation.  [He says](http://www.greatfallstribune.com/article/20100921/NEWS01/100921005/Breuning-oldest-man-in-world-marks-114th-birthday-with-speech-calling-for-kindness-) you used to "carry the water in, heat it on the stove. That’s what you took your bath with. Wake up in the dark. Go to bed in the dark. That’s not very pleasant.”
 
-Walter remembers the day Grover Cleveland got shot as the day he got his first haircut.  He remembers sitting by the fire while his own grandfather told war stories.
+Walter remembers the day President McKinley got shot as the day he got his first haircut.  He remembers sitting by the fire while his own grandfather told war stories.
 
 Civil War stories.
 
@@ -15,9 +15,9 @@ The Civil War is still in *living memory*.  It may be secondhand, but it's there
 
 That's the interesting thing about time: the further from the present we think - whether into the future or the past - the more indistinct it becomes.  This is as true for generational memory as it is for individual memory.  Events of hundreds of years ago blur together even though they themselves are sometimes hundreds or years apart.  We think of Ben Franklin and Thomas Jefferson together generationally, but we forget that Franklin was 37 years older than Jefferson.  Franklin was an old man at the signing of the Declaration.  Jefferson was a young man.
 
-The notion of living memory has been basically the same through all of human history.  Living memory is what those living can remember.  As that fades, the reality of existence at a given time in human history fades like ink on old parchment.  We can only guess at what things were once like.
+The notion of living memory has been basically the same through all of human history.  Living memory is what those living can remember.  As that fades, the reality of existence at a given time in human history fades like ink on old parchment.  Beyond anthropology, some books, and some artifacts, we can only guess at what things were once really like.
 
-The last hundred or so years have really started to change that.  First the daguerrotype and then the photograph.  Then moving film and TV.  Now, the internet.  These have changed, with very little fanfare, our collective memory.  We can see photographs from the 1800s.  We know what Lincoln looked like.  We know what street scenes looked like.  We have footage from World War I, World War II, and the Holocaust.  Between Flickr, YouTube, and many others, the last few years are the best documented in history.  For [better](http://www.youtube.com/watch?v=ji5_MqicxSo) or [worse](http://www.youtube.com/watch?v=EwTZ2xpQwpA).
+The last hundred or so years have really started to change our memory.  First the daguerrotype and then the photograph.  Then moving film and TV.  Now, the internet.  These have changed, with very little fanfare, our collective memory.  We can see photographs from the 1800s.  We know what Lincoln looked like.  We know what street scenes looked like.  We have footage from World War I, World War II, and the Holocaust.  Between Flickr, YouTube, and many others, the last few years are the best documented in history.  For [better](http://www.youtube.com/watch?v=ji5_MqicxSo) or [worse](http://www.youtube.com/watch?v=EwTZ2xpQwpA).
 
 I wonder how this will continue to change in the future.  I love the more timeless concept behind the internet startup [1000memories](http://1000memories.com/).  I'm glad we will have these memories to learn from in the future.  But it's increasingly our cultural responsibility to deal with this massive amount of information well.  The media has become increasingly nit-picky and focused on every wrong, misstep, or change in every public figure or public policy.  Pessimism sells, which is unfortunate.  We need more 1000memories.  More [longbets](http://www.longbets.org/).  More [Wikipedias](http://en.wikipedia.org/wiki/Main_Page).  
 
