@@ -1,0 +1,34 @@
+---
+layout: post
+title: A Review of the Skeptical Environmentalist
+---
+
+For a change, I thought I'd do a book review just like my [dear friend Lib](http://libonlit.blogspot.com/).  And I've just finished a book worthy of review.
+
+That book is The Skeptical Environmentalist by Danish economist Bjorn Lomborg.  You may have heard of Lomborg - he was brashly criticized a number of years ago for speaking against the juggernaut religion of global warming sponsored by the IPCC.
+
+Lomborg himself is the skeptic and he does a wonderful job of explaining the State of the World.  Each topic is broken down into quantifiable numbers and analyzed in turn.  He maintains exhaustive notes and references, usually from IPCC or UN sponsored studies, so as to rationally counter the spiced-up language of the Litany.
+
+The Litany is something we all know: a series of disastrous and pessimistic views on how our world is getting worse.  Deforestation, pollution, cancer, acid rain, mass extinction, ozone depletion, widespread hunger, poverty, rising oceans, ocean acidification, glacial retreat, and of course the all-important carbon concentration in the atmosphere.
+
+Lomborg takes all of these and more and decomposes them to understand concretely how they've changed over time.  The surprising thing about this approach is the data itself.  By every measure possible, as he presents the data, the state of humanity and our environment is better now than it has been in the past.  Pollution is decreasing, forest cover has either remained the same or increased, and the developing world is getting richer and less hungry.
+
+All of this data, which Lomborg so rigorously presents, is a prelude to the main thesis.
+
+The problem of the environment is not scientific but economic.  In this way, like many surprising solutions, the problem is turned on its side.  The developed world especially has over the past few decades begun to do a far better job in managing the environment than in the past.  The reason we are able to do this is that we are richer.  Asking questions and striving to take care of the environment is something that only the rich can afford to do.  Much of the developing world cannot do this now just like those living in squalor in 15th century London could not.  They worried about neither the exterior nor interior air quality (by the way, interior air quality has historically been far worse than exterior air quality) because they were far busier worrying about their food for tomorrow.  
+
+We have a largely romantic view of life in the past.  We forget the butcher shops, plague and feces in the streets of 15th century London, or the coal smoke of 19th century London, when we look at the gentrified elegance and cleanliness of 21st century London.
+
+As the developed world has been able to do a drastically better job at managing the environment, the solution to the problem becomes economic: continue to take the billions of poor and hungry people left in the world and make them richer and less hungry.  As the entire world becomes correspondingly richer, they will be able to better manage the environment.
+
+This is a radically different solution than carbon sequestering, eliminating fossil fuels, or carbon taxes.  Aside from being remarkably humanitarian, eliminating poverty and hunger is a much more efficient use of our existing money.  Carbon taxes would simply make the poor poorer and the rich who can afford things like solar panels richer.  On the other hand, working on poverty and hunger will not cost much for a huge amount of change to a huge number of people, with the added benefit of helping our environment.
+
+Lomborg has been massively criticized as being against the environmental movement.  But as he says, "nobody is an anti-environmentalist."  Instead, he's taken a dramatic look at the resources available to us and chosen to prioritize them so as to make the most out of our human situation.  His conclusions suggest that things are better now than we think and that it's our responsibility to take a hard look at where we spend our money and make the most of it.  Every issue is not equally important and choosing not to prioritize is the same as doing so in a poor, ad-hoc fashion.
+
+The most interesting critic I read was Alex Kirby, a BBC journalist, who said "What really riles me about his book is that it is so damnably reasonable. In the rational world that Bjørn Lomborg thinks we all inhabit, we would manage problems sensibly, one by one...But the real world is messier, more unpredictable - and more impatient."  The reasonableness of Lomborg's approach is precisely what makes it such a struggle.  How do we choose between saving lives with cancer research and saving lives with influenza vaccines.  The economics of the problem, how much good can one do in different areas with the same dollars, provides that structure.  
+
+But it's easy - in fact it's natural - to rebel against this reasonableness.  In a talk I heard recently, Freeman Dyson (another climate skeptic) described the NASA Space Shuttle program as "a welfare program for the aerospace industry."  I rebelled against that notion in the same way.  I grew up marveling at the shuttles and their magical ability to take people to space.  But a little bit of thought shows the correctness of Dyson's statement.  The Shuttles do very little beyond help the International Space Station.  The unmanned missions we send - like Kepler or the SDO - perform far more science than the Shuttle missions.  And the shuttles don't actually send humans anywhere.  We haven't been on the Moon since the 70s and even planes are getting slower than they used to be.  It's probably a positive development that NASA is shutting down the massively expensive Shuttle program - those dollars could be better spent elsewhere.  But that's not an obvious conclusion.
+
+Economics and prioritization isn't an obvious conclusion to climate change either.  And like any book on such a politicized issue this one should be taken with a rather large grain of salt.  But that's no different than Gore's *An Inconvenient Truth* which has had as much or more criticism for incorrect or manipulated data.  The great thing about Lomborg's book is that his main theses don't actually require all the data he presents.  The validity of economics and prioritization can be built simply on human history over the last thousand years.  We now live longer and more healthy lives, we get sick less, and less children die.  Our cities are cleaner, our cars and transportation are cleaner, and we are moving towards ever-more sustainable energy sources.  A poor American is far more wealthy than *anyone* from a hundred or more years ago.  These things will continue to improve, but they will take time.
+
+A shorter version of Lomborg's message is in a [TED talk online](http://www.ted.com/talks/lang/eng/bjorn_lomborg_sets_global_priorities.html).
