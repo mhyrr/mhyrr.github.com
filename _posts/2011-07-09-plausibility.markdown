@@ -26,6 +26,7 @@ The only way to _be_ plausible is to care about and be interested in the world. 
 Just like the Scarlet Tanager:
 	Thy duty, winged flame of spring,
 	is but to love and fly and sing.
+	--James Lowell
 
 Youth is wasted on the young, as they say, and as it's the happiest thing they ever do, I'm not sure how wasteful it is.  Children are the Scarlet Tanagers all of us should be.
 
