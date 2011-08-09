@@ -20,9 +20,11 @@ These are averages of course, and statistics can be difficult to deal with.  Nev
 -  237 are millionaires
 -  95% have college degrees, somewhere around 70% have advanced degrees
 
-These are not the same segments of population, and that's fine by me.  To put it more bluntly, the average American has a very average education, almost no savings for retirement, a huge amount of debt compared to their salary and likes very much to soak up TV on their couch.  Congressional members, on the other hand, are very well educated and reasoned people who are typically set financially for life and have no time or effort to waste on boring hobbies like TV.  So why does the one group try so desperately to mollify the other?  And why do they also insist on the myth that they are just like the average American?  If they were, I wouldn't elect them.
+These are not the same segments of the population, and that's fine by me.  To put it more bluntly, the average American has a very average education, almost no savings for retirement, a huge amount of debt compared to their salary and likes very much to soak up TV on their couch.  Congressional members, on the other hand, are very well educated and reasoned people who are typically set financially for life and have no time or effort to waste on boring hobbies like TV.  So why does the one group try so desperately to mollify the other?  And why do they also insist on the myth that they are just like the average American?  If they were, I wouldn't elect them.
 
-I realized recently that this single problem is my whole issue with politics today.  It was this comment of Obama's that did it; he said, "I'm not going to remove these energy investments when so many taxpaying citizens are feeling pain at the [gas] pump.".  He was defending some government "investments" (spending) that the Republicans wanted gone as part of the debate over raising the debt ceiling. 
+I realized recently that this single problem is my whole issue with politics today.  It was this comment of Obama's that did it; he said, 
+	"I'm not going to remove these energy investments when so many taxpaying citizens are feeling pain at the [gas] pump.".  
+He was defending some government "investments" (spending) that the Republicans wanted gone as part of the debate over raising the debt ceiling. 
 
 There are three problems with this statement:  1. The two things have nothing to do with each other.  2.  Obama knows it.  3.  His audience (largely) doesn't.
 
@@ -73,9 +75,9 @@ Maybe that's not such a bad idea.  Our elected politicians are there to show us 
 Congress should raise the bar, not drop down into averages and mediocrity.
 
 Some stat sources:
-(http://pubdb3.census.gov/macro/032006/hhinc/new02_001.htm)
-(http://en.wikipedia.org/wiki/Average_Joe)
-(http://www.hoffmanbrinker.com/credit-card-debt-statistics.html)
-(http://www.retirement-income.net/blog/retirement-savings-statistics/average-retirement-savings-all-measurements-lead-to-the-same-conclusion/)
-(http://www.opensecrets.org/pfds/averages.php)
-(http://en.wikipedia.org/wiki/Members_of_the_111th_United_States_Congress#Education)
+-  (http://pubdb3.census.gov/macro/032006/hhinc/new02_001.htm)
+-  (http://en.wikipedia.org/wiki/Average_Joe)
+-  (http://www.hoffmanbrinker.com/credit-card-debt-statistics.html)
+-  (http://www.retirement-income.net/blog/retirement-savings-statistics/average-retirement-savings-all-measurements-lead-to-the-same-conclusion/)
+-  (http://www.opensecrets.org/pfds/averages.php)
+-  (http://en.wikipedia.org/wiki/Members_of_the_111th_United_States_Congress#Education)
