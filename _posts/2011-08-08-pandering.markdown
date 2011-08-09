@@ -3,20 +3,22 @@ title: Pandering
 layout: post
 ---
 
-Awhile back, I wrote about some of my frustrations with the way our political parties go back and forth across their perceived spectrums without actually saying much.  The conclusion - that very rich people can and do buy political power - could be construed as conspiracy-theoretic.  I think it's more of a sad sarcasm about the difference between most of the population and the people that play politics.
+Awhile back, I wrote about [some of my frustrations](http://www.infiniteabyss.org/2011/04/09/buying_power.html) with the way our political parties go back and forth across their perceived spectrums without actually saying much.  The conclusion - that very rich people can and do buy political power - could be construed as conspiracy-theoretic.  I think it's more of a sad sarcasm about the difference between most of the population and the people that play politics.
 
 But the politicians need most of the population.  Literally.  The notion of democracy suggests that the politicians, at least temporarily, have the ear of the majority.  I don't mean to be pessimistic, but let me rattle off some facts about the majority, as presented by some statistics about the median American (the difference between a majority and an average is significant, but is reasonable here):
-- $46,000 salary
-- 2.7 hours of TV per day
-- $18,000 in total savings (retirement too)
-- $5,100 in credit card debt
-- 85% have a high school degree, only 27% have a college degree
+
+-  $46,000 salary
+-  2.7 hours of TV per day
+-  $18,000 in total savings (retirement too)
+-  $5,100 in credit card debt
+-  85% have a high school degree, only 27% have a college degree
 
 These are averages of course, and statistics can be difficult to deal with.  Nevertheless, let us compare these to averages across Congress:
-- $175,000-$220,000 salary
-- $920,000 average net worth
-- 237 are millionaires
-- 95% have college degrees, somewhere around 70% have advanced degrees
+
+-  $175,000-$220,000 salary
+-  $920,000 average net worth
+-  237 are millionaires
+-  95% have college degrees, somewhere around 70% have advanced degrees
 
 These are not the same segments of population, and that's fine by me.  To put it more bluntly, the average American has a very average education, almost no savings for retirement, a huge amount of debt compared to their salary and likes very much to soak up TV on their couch.  Congressional members, on the other hand, are very well educated and reasoned people who are typically set financially for life and have no time or effort to waste on boring hobbies like TV.  So why does the one group try so desperately to mollify the other?  And why do they also insist on the myth that they are just like the average American?  If they were, I wouldn't elect them.
 
