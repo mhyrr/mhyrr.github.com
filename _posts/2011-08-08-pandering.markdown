@@ -23,7 +23,8 @@ These are averages of course, and statistics can be difficult to deal with.  Nev
 These are not the same segments of the population, and that's fine by me.  To put it more bluntly, the average American has a very average education, almost no savings for retirement, a huge amount of debt compared to their salary and likes very much to soak up TV on their couch.  Congressional members, on the other hand, are very well educated and reasoned people who are typically set financially for life and have no time or effort to waste on boring hobbies like TV.  So why does the one group try so desperately to mollify the other?  And why do they also insist on the myth that they are just like the average American?  If they were, I wouldn't elect them.
 
 I realized recently that this single problem is my whole issue with politics today.  It was this comment of Obama's that did it; he said, 
-	"I'm not going to remove these energy investments when so many taxpaying citizens are feeling pain at the [gas] pump.".  
+	"I'm not going to remove these energy investments when so many taxpaying citizens 
+	are feeling pain at the [gas] pump.".  
 He was defending some government "investments" (spending) that the Republicans wanted gone as part of the debate over raising the debt ceiling. 
 
 There are three problems with this statement:  1. The two things have nothing to do with each other.  2.  Obama knows it.  3.  His audience (largely) doesn't.
