@@ -75,6 +75,7 @@ Maybe that's not such a bad idea.  Our elected politicians are there to show us 
 Congress should raise the bar, not drop down into averages and mediocrity.
 
 Some stat sources:
+
 -  (http://pubdb3.census.gov/macro/032006/hhinc/new02_001.htm)
 -  (http://en.wikipedia.org/wiki/Average_Joe)
 -  (http://www.hoffmanbrinker.com/credit-card-debt-statistics.html)
