@@ -27,7 +27,9 @@ I realized recently that this single problem is my whole issue with politics tod
 	are feeling pain at the [gas] pump.".  
 He was defending some government "investments" (spending) that the Republicans wanted gone as part of the debate over raising the debt ceiling. 
 
-There are three problems with this statement:  1. The two things have nothing to do with each other.  2.  Obama knows it.  3.  His audience (largely) doesn't.
+There are three problems with this statement:  
+
+1. The two things have nothing to do with each other.  2.  Obama knows it.  3.  His audience (largely) doesn't.
 
 This is called pandering, and it's loathsome standard practice, and has been around as long as government.  TV, radio, and media only make it worse.  
 
