@@ -78,7 +78,7 @@ The reason both sides pander for the senior contingent is because they vote.  Th
 	I could end the deficit in 5 minutes. You just pass a law that says that anytime there is 
 	a deficit of more than 3% of GDP all sitting members of congress are ineligible for reelection.”  
 
-Maybe that's not such a bad idea.  Our elected politicians are there to show us the path forward, not perpetuate their position.  If they're not doing the job, let's ditch them.  I've been reading recently about [Vickrey auctions](http://en.wikipedia.org/wiki/Vickrey_auction) and how they've been used by Google and others to raise efficacy standards for both buyers and sellers.  We've relied on the very first pass at incumbency and elections for a long time.  What would a second pass look like?  (If anyone has any resources, I would love to understand more about how incumbency affects the political process and how it might change in the future.)
+Maybe that's not such a bad idea.  Our elected politicians are there to show us the path forward, not perpetuate their position.  If they're not doing the job, let's ditch them.  I've been reading recently about [Vickrey auctions](http://en.wikipedia.org/wiki/Vickrey_auction) and how they've been used by Google and others to raise efficacy standards for both buyers and sellers.  We've relied on the [very first pass at incumbency and elections](http://en.wikipedia.org/wiki/Term_limits_in_the_United_States#Term_limits_in_the_Constitution) for a long time.  What would a second pass look like?  (If anyone has any resources, I would love to understand more about how incumbency affects the political process and how it might change in the future.)
 
 Congress should raise the bar, not drop down into averages and mediocrity.
 
