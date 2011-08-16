@@ -28,5 +28,4 @@ Oh that's right, the Fed can print money whenever it's needed.  Who cares about 
 There's a lot he's right about, especially the changes in the economy since 1980 (in my mind, a net positive) and the problems with taxes.  But my main conclusion is actually unrelated:  Left-minded public figures persuade the middle class (and thus the vote) by catering to their perception of self-importance as the main consumer-driven, debt-driven economic force.  Meanwhile, right-minded public figures persuade by catering to the independence of the middle-class.  Our stand-off between entitlement programs and taxes at this point is just a symptom of the fight for elected offices.
 
 The full 2:15 video:
-
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/watch?v=JTzMqm2TwgE?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/watch?v=JTzMqm2TwgE?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<iframe width="560" height="349" src="http://www.youtube.com/embed/JTzMqm2TwgE" frameborder="0" allowfullscreen></iframe>
