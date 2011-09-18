@@ -3,7 +3,7 @@ layout: post
 title: What You'll Wish You'd Known
 ---
 
-An [Ask PG](http://news.ycombinator.com/item?id=2982185) thread on Hacker News had a [comment](http://news.ycombinator.com/item?id=2982562) so poignant I felt inclined to repost it here.  The author suggested PG make another book of essays, this one targeted at high school and college students (loosely).  Here's the OP's list - I'm not sure I'd change a thing:
+An [Ask PG](http://news.ycombinator.com/item?id=2982185) thread on Hacker News had a [comment](http://news.ycombinator.com/item?id=2982562) so poignant I felt inclined to repost it here.  The author suggested PG make another book of essays, this one targeted at high school and college students (loosely).  Here's the OP's list:
 
 1.  [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
 2.  [What You Can't Say](http://www.paulgraham.com/say.html)
@@ -21,7 +21,7 @@ An [Ask PG](http://news.ycombinator.com/item?id=2982185) thread on Hacker News h
 14.  [Two Kinds of Judgement](http://www.paulgraham.com/judgement.html)
 15.  [Stuff](http://www.paulgraham.com/stuff.html)
 
-I would consider adding to this list
+I would consider adding to this:
 
 16.  [Undergraduation](http://www.paulgraham.com/college.html)
 17.  [You Weren't Meant To Have A Boss](http://www.paulgraham.com/boss.html)
