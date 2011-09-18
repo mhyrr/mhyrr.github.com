@@ -7,6 +7,70 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/telepath.blog.markdown",
+			"settings":
+			{
+				"buffer_size": 13366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/onretirement.blog.markdown",
+			"settings":
+			{
+				"buffer_size": 1781,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/crowds.blog.markdown",
+			"settings":
+			{
+				"buffer_size": 1134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/strongopinions.blog.markdown",
+			"settings":
+			{
+				"buffer_size": 2889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mhyrr/Documents/work/ruby/omgearthquake/earthquake.rb",
+			"settings":
+			{
+				"buffer_size": 1097,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/hacker.markdown",
+			"settings":
+			{
+				"buffer_size": 1947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/collegeprestige.blog.markdown",
+			"settings":
+			{
+				"buffer_size": 24025,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/knowledgeineconomics.blog.markdown",
+			"settings":
+			{
+				"buffer_size": 741,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -27,6 +91,18 @@
 	},
 	"file_history":
 	[
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-08-15-robertreich.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-08-08-pandering.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/robertreich.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2010-09-12-contrarian.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2010-04-25-knowing_how_to_not_know.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/pandering.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/gmail.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-04-09-buying_power.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-07-09-plausibility.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/plausibility.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/hacker.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/mcmansions.blog.markdown"
 	],
 	"find_in_files":
 	{
@@ -42,6 +118,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"plau"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -66,8 +143,218 @@
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/telepath.blog.markdown",
+					"settings":
+					{
+						"buffer_size": 13366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8778,
+								8778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 1380,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/onretirement.blog.markdown",
+					"settings":
+					{
+						"buffer_size": 1781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								789,
+								789
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/crowds.blog.markdown",
+					"settings":
+					{
+						"buffer_size": 1134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/strongopinions.blog.markdown",
+					"settings":
+					{
+						"buffer_size": 2889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1059,
+								1059
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/mhyrr/Documents/work/ruby/omgearthquake/earthquake.rb",
+					"settings":
+					{
+						"buffer_size": 1097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 89,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/hacker.markdown",
+					"settings":
+					{
+						"buffer_size": 1947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1947,
+								1947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/collegeprestige.blog.markdown",
+					"settings":
+					{
+						"buffer_size": 24025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21112,
+								21112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 3691,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/knowledgeineconomics.blog.markdown",
+					"settings":
+					{
+						"buffer_size": 741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -114,6 +401,6 @@
 	"show_minimap": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150,
+	"side_bar_width": 265,
 	"status_bar_visible": true
 }
