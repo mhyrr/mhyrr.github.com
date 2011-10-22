@@ -10,9 +10,9 @@ As crowds grow in size, the number of people in the crowd defined under any sort
 We don't usually realize this because of one simple thing.  Humans are dreadfully bad at understanding what random actually means.  [Peter Norvig described this amazingly well](http://norvig.com/experiment-design.html) with the following example.  He says "Consider the following three plots. In one of the plots each of the blue points is sampled with equal probability from the entire square. Which one is it?"
 
 
-<img src="http://norvig.com/plot1.png" height="220" width="157" />
-<img src="http://norvig.com/plot2.png" height="220" width="157" />
-<img src="http://norvig.com/plot3.png" height="220" width="157" />
+<img src="http://norvig.com/plot1.png" height="142" width="200" />
+<img src="http://norvig.com/plot2.png" height="142" width="200" />
+<img src="http://norvig.com/plot3.png" height="142" width="200" />
 
 Most people pick the one on the bototm.  The answer is on the top (his essay has more precision).  When humans hear "random", what they search for by default is "homogeneity".  And random distributions are not the same as homogeneous distributions, so in a crowd you may have a whole bunch of stupid people around.  
 
