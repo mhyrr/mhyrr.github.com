@@ -1,0 +1,23 @@
+---
+title: The Importance of Crowds
+layout: post
+---
+
+Fourth of July weekend found me on Bethany Beach sitting on a blanket on the sand waiting for the fireworks to start.  The show was great, but the crowd was ridiculous.  Annoying kids flinging sand everywhere, loud and drunk men, smokers, and obnoxious mothers seemed prevalent.  I usually get a little flustered in crowds, and my "bah humbug!" was definitely showing itself that day.  Then I came to a new realization, and my annoyance floated away.
+
+As crowds grow in size, the number of people in the crowd defined under any sort of (arbitrary) label, including stupidity, intelligence, obnoxiousness, or quietness increases also.  Unfortunately, *smart* or *quiet* are harder to pick out than *stupid* or *annoying*, where harder means that it takes longer to determine.  You can tell fairly quickly if someone falls under your definition of stupid, but it can take quite awhile to determine if they are smart.
+
+We don't usually realize this because of one simple thing.  Humans are dreadfully bad at understanding what random actually means.  [Peter Norvig described this amazingly well](http://norvig.com/experiment-design.html) with the following example.  He says "Consider the following three plots. In one of the plots each of the blue points is sampled with equal probability from the entire square. Which one is it?"
+
+![Blue dots](http://norvig.com/plot2.png)
+
+Most people pick the one on the right.  The answer is on the left  (his essay has more precision).  When humans hear "random", what they search for by default is "homogeneity".  And random distributions are not the same as homogeneous distributions, so in a crowd you may have a whole bunch of stupid people around.  
+
+Crowds themselves tend to make everyone a bit more obnoxious and stupid too, or they at least increase our sensitivity in perception.  When we're in a big group of strangers, we get annoyed at the simplest little things.  So chances are if you're in a big crowd, you're not having a great time.
+
+But it's important to remember that as a crowd grows, the whole distribution grows.  There may be more annoying people, and they may be easier to find, but there should also be more scientists, teachers, doctors, and good mothers.  *1
+
+We all get a little anxious in crowds, mostly because we get overwhelmed by the tide of humanity.  The most important thing to remember is that we need all of these people, even the stupid and annoying ones.  We need them to make a crowd in the first place.  Without the crowd, whatever it is you are crowding for wouldn't exist.  You may not like the crowds of Manhattan, but you're there for the same reason the crowd is.  Manhattan is not Manhattan - with all it's subways, restaurant, bars, shops, museums, shows, and grandeur without the ten million people that live there.  
+
+
+*1 "More" here may still be zero depending on the sample size of the population, but the likelihood is at least higher.
