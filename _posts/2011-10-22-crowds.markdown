@@ -14,7 +14,7 @@ We don't usually realize this because of one simple thing.  Humans are dreadfull
 <img src="http://norvig.com/plot2.png" height="138" width="190" />
 <img src="http://norvig.com/plot3.png" height="138" width="190" />
 
-Most people pick the one on the bottom.  The answer is on the top (his essay has more precision).  When humans hear "random", what they search for by default is "homogeneity".  And random distributions are not the same as homogeneous distributions, so in a crowd you may have a whole bunch of stupid people around.  
+Most people pick the one on the right.  The answer is on the left (his essay has more precision).  When humans hear "random", what they search for by default is "homogeneity".  And random distributions are not the same as homogeneous distributions, so in a crowd you may have a whole bunch of stupid people around.  
 
 Crowds themselves tend to make everyone a bit more obnoxious and stupid too, or they at least increase our sensitivity in perception.  When we're in a big group of strangers, we get annoyed at the simplest little things.  So chances are if you're in a big crowd, you're not having a great time.
 
