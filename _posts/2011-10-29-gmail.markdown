@@ -1,0 +1,136 @@
+---
+title: How I Use GMail
+layout: post
+---
+
+Even in 2011, email is the most ubiquitous of internet communications.  Everyone uses it.  It becomes the basic hub of your entire internet presence.  Your subscriptions from every service hit your email.  Anything you order online goes to email.  Anything you register for goes to email.  Bills go to email.  Important FB or Twitter news goes to email.  Messages from friends, family, and coworkers goes to email.  Yet it still surprises me how badly most people manage their email.  Most are still stuck using Outlook, or Hotmail/Comcast/Yahoo.  Many use GMail, but only in a rudimentary fashion.  (Interestingly, someone did a study that suggested you can guess the age of someone based on which email service they use, which I can't find right now.)
+
+The great thing about GMail is how easy it is to use well.  Most people don't, even fairly technical people.  They still have 12,000 things in their Inbox, mostly Groupon/coupon/subscription spams.  Given how ubiquitous email is, it's sort of insane to use it so poorly.  So this is a story about how I use GMail.  I've explained or showed it to enough people - technical and non-technical alike - to believe it relevant to others.  I don't claim to know or use all its powers, and this is not a One True Way article.  It's simply something that has worked well for me.  If it works well for you, awesome.
+
+The key behind using a system well is psychology.  All the cool features in the world won't help change your habits.  I'm pretty ruthless about maintaining Labels, Filters and a small Inbox.  My Inbox acts as a sort of todo list.  It's the set of the top things I have to think about right now.  When it gets up to more than 30 or so things, I start trimming.  
+
+### Security
+
+If I started anywhere else, I'd be remiss.  Likely this is the hub of your presence online - you should secure it.
+
+The first thing this means is you should have two GMail accounts.  Your primary account, and a second completely unused account.  God forbid anyone ever gets a hold of your account, GMail has a mechanism to send confirmation to a secondary address that allows you to regain control.  I had to use this once when I was more foolish with passwords, and I was really happy it was there.
+
+#### Passwords
+
+People still use [crazy simple](http://tenfoottable.com/wp-content/uploads/2011/01/top20passwords.png) passwords.  Come on, you can do better.  The rules are simple: passwords should be fairly long and have some different characters in it.  At least 10 characters, and 15-20 is better.  And get some numbers and punctuation in there.  There are plenty of schemes to keep them memorable. 
+
+![XKCD Passwords - not perfect, but good][http://imgs.xkcd.com/comics/password_strength.png]
+
+Your GMail password shouldn't be used for anything else.  Ever.  Your secondary email account password should be different, as should your FB, Twitter or whatever others.  Your financial passwords should be different yet again.  If this all sounds like a pain (which it can be), investigate some solutions like [1Password](https://agilebits.com/onepassword), which has become a great tool for me.
+
+GMail started offering two-factor authentication not long ago too.  I haven't added this yet, but it's on my radar screen.  
+
+### Conversations
+
+Anytime I see Outlook and most web-based email clients, I cringe at all the "Re: ", "Re: re: Fwd: ZOMG", and "Re: re: re: RE RE: Fwd: Re: re: re: re: fwd: fwd: wat?".  What is that crap?  It's been around since the beginning, but GMail's conversation view still deems mention.  I've got 22 items in my inbox right now, which, without conversation, would be more like 120.  And when you open these up, they do a great job at maintaining new message integrity.  So if you're new message in a huge chain of replies contains all the previous replies, those are safely tucked away and hidden, and you can differentiate the flow of the conversation very easily.  This feels like old hat to me and many others now, but I'm still taken aback by how many people are stuck with the old Outlook mentality.
+
+For example, this is like 20 SMS messages.
+![Hey call me][images/conversations.jpg]
+
+### Archive
+
+Archive all your email.  You can search and find stuff all the time.  This was the original reason for GMail: search, and it's so useful.  Space isn't exactly an issue here.  I've been using GMail excessively since 2005 and I'm 63% full.
+
+![Not full yet][images/gmailsize.jpg]
+
+Recently, I've amended this slightly.  If some subscription thing or a monthly newsletter comes in and I know I'll never see it again, I'll delete it.  But that's it.  
+
+Archiving everything means you'll have a lot of information up in the GMail service, which may be a little nerve-racking.  For a long time I used a mail client to do local backups, but I've given that up now.  Google has an inherent desire to be ruthlessly careful with your data: happy customers.  But aside from that, I'm still looking into [Backupify](https://www.backupify.com/) as a backup solution.
+
+### Multiple Accounts
+
+If you need multiple accounts, it's easy to host in GMail.  You can incorporate email from another service or domain, but given the choice, it's easier to just use multiple GMail accounts.  You can bring them in from *Accounts and Import* in Settings.  When you compose an email, the *From* field will have a simple drop-down menu to choose your address.  The defaults for this are all pretty smart.  I only ever check my one email account, which consolidates email from several accounts.  If I reply to something from a different address, the reply is automatically from my receiving address.  Piece of cake.
+
+### Labels
+
+OMG, people still use vast complicated folder structures?  Labels are only slightly different, but it's huge in practice.  The difference is: a single email may have more than one label, whereas it may be put in only one folder.
+
+This way, my bank statement can be filed under Online Bills, Bank, and Financials.  A company email gets filed under my company label (which effectively doubles as an Inbox for that email address), and the relevant topic area.  
+
+Such a simple change, but such a big difference in practice.  I have tons of labels for everything from SMS conversations, to convenient shortcut labels for specific people like my wife, labels for online accounts, online orders, good conversations with friends, travel, and my writing ideas and drafts.  It's just easy.
+
+### Filters
+
+Organizing all this wouldn't be easy if it weren't for Filters.  Almost all of my labels have one or more filters which automagically add the proper labels.  This keeps all my online bill statements, Amazon orders, text messages, company email, car and racing conversations, and wine newsletters nicely organized.  It's not hard to setup and it's worth a touch of trouble to keep life organized.
+
+![iTunes][images/ituneslabel.jpg]
+
+### Themes
+
+I use Preview (Dense).  Busy themes take away from the whole point, which is a clean and tidy environment.  
+
+### Labs
+
+The Labs area has some useful little add-ons.  Here's my list:
+
+* Canned Responses: Useful for multiple signatures, and common emails.
+* Custom Date Formats: There's 24 hours in a day, not 12.
+* Inserting Images
+* Move Icon Column: Slots the attachment icon right next to the Star, way easier to see.
+* Right-side chat: It's on the right side now.
+
+### Rapportive
+
+I use [Rapportive](https://rapportive.com/) on my home computers, which is a sidebar that provides information about the other people in conversations, including social media connections.  It's been pretty useful, but I don't consider it a must have.  Google has injected their own version in the sidebar too, with recent emails and shared documents that's nice too.
+
+### Google Sync
+
+[Use it](http://www.google.com/mobile/sync/).  Simple as that.  Long ago, I remember having to sync things manually, or update something on one computer to reflect the same state as another.  It's kind of ridiculous when all you want is the information.  Whether you use an iPhone, iPad, Android or whatever, this is seriously convenient.
+
+### Calendar
+
+Google Calendar is linked right in and used for everything.  Whether I access it on iCal, my iPhone or a browser, it always has the same information.  My wife's a nurse with a rotating schedule, so I import her calendar here as well and always know what her schedule looks like.  I've got friend's and work calendars linked here too.  And because I sync, it shows up wherever, on my phone or computer.
+
+### Contacts
+
+If you've got email, you've got contacts.  These can sync to your phone and everything else too.  
+
+### Chat
+
+It's on the right side.  I talk with people on it all the time, so I turned off saving Chat History.  It syncs up with most chat clients like iChat or Adium if you want to use it natively.
+
+### Reader
+
+Google Reader is the home of all my subscriptions to blogs or news feeds.  NetNewsWire syncs with it.  Pretty slick.
+
+![NetNewsWire][images/netnewswire.jpg]
+
+### Google Voice
+
+Like everything else, your Google Voice account syncs right up with GMail.  So you can send/receive SMS messages and voicemails right from your email.  
+
+![Text][images/txting.jpg]
+
+### Other useful things
+
+On the bottom right of every page is a link to look at your account activity, including how many sessions are active and where they are geographically.
+
+![Where?][images/gmailactivity.jpg]
+
+Hit Shift-? for keyboard shortcuts.  If you dislike the mouse, like me, these help.
+
+![g-i is for inbox][images/gmailshortcuts.jpg]
+
+### Amazing and Stunning Conclusion
+
+That's all I got.  Hopefully it's useful, it is for me.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -295,7 +295,7 @@ Anyway, I've been keeping a list over the past couple of years of words I come a
   * epaulets - an ornamental shoulder piece worn on uniforms, chiefly by military officers
   * ostinato - a constantly recurring melodic fragment
   * indigent - lacking food, clothing, and other necessities of life because of poverty; needy; poor; impoverished
-  * jamais vu - a disorder of memory characterized by the illusion thatthe familiar is being encountered for the first time
+  * jamais vu - a disorder of memory characterized by the illusion that the familiar is being encountered for the first time
   * chamois - a soft, pliable leather from any of various skins dressed with oil
   * demitasses - a small cup for serving strong black coffee after dinner
   * divagating - to wander; stray
@@ -319,6 +319,24 @@ Anyway, I've been keeping a list over the past couple of years of words I come a
   * periphrasis
   * fictile
   * glabrous
+  * tacit
+  * brobdingnagian
   * sternutation
   * quinquennial
   * orthology
+  * incipient
+  * inchoate
+  * pentimentos
+  * seneschal
+  * leal
+  * valonqar
+  * nonce
+  * solecism
+  * gaucherie
+  * creosote
+  * recrudescence
+  * unprepossessing
+  * damascene
+  * prate
+  * tuile
+
