@@ -30,13 +30,13 @@ GMail started offering two-factor authentication not long ago too.  I haven't ad
 Anytime I see Outlook and most web-based email clients, I cringe at all the "Re: ", "Re: re: Fwd: ZOMG", and "Re: re: re: RE RE: Fwd: Re: re: re: re: fwd: fwd: wat?".  What is that crap?  It's been around since the beginning, but GMail's conversation view still deems mention.  I've got 22 items in my inbox right now, which, without conversation, would be more like 120.  And when you open these up, they do a great job at maintaining new message integrity.  So if you're new message in a huge chain of replies contains all the previous replies, those are safely tucked away and hidden, and you can differentiate the flow of the conversation very easily.  This feels like old hat to me and many others now, but I'm still taken aback by how many people are stuck with the old Outlook mentality.
 
 For example, this is like 20 SMS messages.
-![Hey call me](images/conversations.jpg)
+![Hey call me](/images/conversations.jpg)
 
 ### Archive
 
 Archive all your email.  You can search and find stuff all the time.  This was the original reason for GMail: search, and it's so useful.  Space isn't exactly an issue here.  I've been using GMail excessively since 2005 and I'm 63% full.
 
-![Not full yet](images/gmailsize.jpg)
+![Not full yet](/images/gmailsize.jpg)
 
 Recently, I've amended this slightly.  If some subscription thing or a monthly newsletter comes in and I know I'll never see it again, I'll delete it.  But that's it.  
 
@@ -58,7 +58,7 @@ Such a simple change, but such a big difference in practice.  I have tons of lab
 
 Organizing all this wouldn't be easy if it weren't for Filters.  Almost all of my labels have one or more filters which automagically add the proper labels.  This keeps all my online bill statements, Amazon orders, text messages, company email, car and racing conversations, and wine newsletters nicely organized.  It's not hard to setup and it's worth a touch of trouble to keep life organized.
 
-![iTunes](images/ituneslabel.jpg)
+![iTunes](/images/ituneslabel.jpg)
 
 ### Themes
 
@@ -98,23 +98,23 @@ It's on the right side.  I talk with people on it all the time, so I turned off 
 
 Google Reader is the home of all my subscriptions to blogs or news feeds.  NetNewsWire syncs with it.  Pretty slick.
 
-![NetNewsWire](images/netnewswire.jpg)
+![NetNewsWire](/images/netnewswire.jpg)
 
 ### Google Voice
 
 Like everything else, your Google Voice account syncs right up with GMail.  So you can send/receive SMS messages and voicemails right from your email.  
 
-![Text](images/txting.jpg)
+![Text](/images/txting.jpg)
 
 ### Other useful things
 
 On the bottom right of every page is a link to look at your account activity, including how many sessions are active and where they are geographically.
 
-![Where?](images/gmailactivity.jpg)
+![Where?](/images/gmailactivity.jpg)
 
 Hit Shift-? for keyboard shortcuts.  If you dislike the mouse, like me, these help.
 
-![g-i is for inbox](images/gmailshortcuts.jpg)
+![g-i is for inbox](/images/gmailshortcuts.jpg)
 
 ### Amazing and Stunning Conclusion
 
