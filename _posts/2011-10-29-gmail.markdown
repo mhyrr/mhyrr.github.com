@@ -31,14 +31,16 @@ Anytime I see Outlook and most web-based email clients, I cringe at all the "Re:
 
 For example, this is like 20 SMS messages.
 ![Hey call me](/images/conversations.jpg)
-<br />
+<br />.
+
 
 ### Archive
 
 Archive all your email.  You can search and find stuff all the time.  This was the original reason for GMail: search, and it's so useful.  Space isn't exactly an issue here.  I've been using GMail excessively since 2005 and I'm 63% full.
 
 ![Not full yet](/images/gmailsize.jpg)  
-<br />
+<br />.
+
 
 Recently, I've amended this slightly.  If some subscription thing or a monthly newsletter comes in and I know I'll never see it again, I'll delete it.  But that's it.  
 
@@ -61,7 +63,8 @@ Such a simple change, but such a big difference in practice.  I have tons of lab
 Organizing all this wouldn't be easy if it weren't for Filters.  Almost all of my labels have one or more filters which automagically add the proper labels.  This keeps all my online bill statements, Amazon orders, text messages, company email, car and racing conversations, and wine newsletters nicely organized.  It's not hard to setup and it's worth a touch of trouble to keep life organized.
 
 ![iTunes](/images/ituneslabel.jpg)  
-<br />
+<br />.
+
 
 ### Themes
 
@@ -102,26 +105,30 @@ It's on the right side.  I talk with people on it all the time, so I turned off 
 Google Reader is the home of all my subscriptions to blogs or news feeds.  NetNewsWire syncs with it.  Pretty slick.
 
 ![NetNewsWire](/images/netnewswire.jpg)  
-<br />
+<br />.
+
 
 ### Google Voice
 
 Like everything else, your Google Voice account syncs right up with GMail.  So you can send/receive SMS messages and voicemails right from your email.  
 
 ![Text](/images/txting.jpg)  
-<br />
+<br />.
+
 
 ### Other useful things
 
 On the bottom right of every page is a link to look at your account activity, including how many sessions are active and where they are geographically.
 
 ![Where?](/images/gmailactivity.jpg)  
-<br />
+<br />.
+
 
 Hit Shift-? for keyboard shortcuts.  If you dislike the mouse, like me, these help.
 
 ![g-i is for inbox](/images/gmailshortcuts.jpg)  
-<br />
+<br />.
+
 
 ### Amazing and Stunning Conclusion
 
