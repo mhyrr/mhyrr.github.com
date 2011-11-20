@@ -1,0 +1,71 @@
+---
+layout: post
+title: Money - Wealth
+---
+
+In the intro to this little series on money, I laid out a bunch of very simple concepts about what money is and how it works in our system.  I said all of that to say this:
+
+**Money is just a tool.  Nothing more, nothing less.**
+
+The reason that everyone seems to care about money is because they actually care about something else: wealth.  
+
+Wealth can have a lot of different meanings.  What it seems to represent is having enough stuff; enough material possessions.  But wealth can also be represented by health, by knowledge, by time, by good work, by friends and family, and by contentment.  Most people work at acquiring wealth as a means of striving for a good life.  Unfortunately, this devolves into acquiring stuff.  Which eventually devolves into desiring money.
+
+## Relative and Absolute
+
+The draw towards more wealth is a perfectly normal human activity.  It's healthy and positive.  A wealthy society will be more peaceful, more healthy, and more happy.  More wealth is something we absolutely should strive for all the time.
+
+Things get mucked up when people don't understand the difference between relative and absolute wealth.  Relative wealth is the result of a comparison.  Do I have more or less than that other guy?
+
+**More** is a good thing.  **More than everyone else** is selfish and stupid.  Never has there been a more foolish game than keeping up with the Joneses.  
+
+With the Joneses, it doesn't matter how much you have as long as you have more than them.  You could have no more than a shopping cart full of crap, but as long as you have more in your shopping cart than that other guy, it's fine.  
+
+The Joneses game never stops along the economic ladder either, from the poorest of the poor to the very richest.  Most people think about it in the context of the middle class, but that's simply because most of us are *in* the middle class.  Rich Karlgaard published a [great editorial in Forbes](http://www.forbes.com/global/2011/1010/opinions-innovation-rules-wealth-america-rich-karlgaard.html) that shows just how shallow and fickle this game can be.  He goes to the very top of the economic food chain and shows just how ridiculous it is to compare yourself to others.
+
+Have you ever noticed that the poor live a sort of tawdry caricature of wealthy people?  The time is long past when the wealthy owned the land and the poor worked it or herded goats.  Now the poor and wealthy often wear very similar clothes or have the same phone.  But because the poor are constantly looking upwards and comparing - and our culture compels them to do so - they have cheap and ugly versions of the nice things that the wealthy own.
+
+[Paul Graham noted in a podcast](http://www.econtalk.org/archives/2009/08/graham_on_start.html) that artists short-circuit the Joneses comparison.  A thousand years ago, if you were poor, you probably lived in filth and squalor.  As our entire society has gotten richer, being poor has been entirely separated from living squalidly.  The poor artist is the champion of this separation.  Instead of trying to live the caricatured life of the rich, they grab an industrial space, paint it white so it's cheap and cheery, and live and work happily.  If they don't need to try to keep up, they can live happily with a reasonable level of absolute wealth.  Because it's so cheap today to live this way, they don't need a ridiculous job to barely support their lifestyle and they have an abundance of time.
+
+## Time and Money
+
+Time is what the artist really gets right.  Time is the most undervalued commodity we have.  One of the things that's so much easier when you have money is that you're not restricted to perform tasks you don't want to perform.  You can pay someone else to cut the grass, to install the fan, to clean your house.  This frees your time up for either more enjoyable or more profitable things.  
+
+Consider that you're a lawyer and your hourly rate is $300.  You **could** stay home and clean the house for a couple of hours a week.  But unless your cleaning service is exorbitantly expensive, it's in your own financial interest to work a bit more and pay someone else.  And if you don't want to work more, you don't need to work very long to pay for the cleaning anyway.
+
+Your choice of trade-offs in this area can, in a strict sense, totally buy happiness.  When you look at the time/money tradeoff, it's much easier to reserve judgment about what choices people make than it is when you're thinking simply about spending money.  The focus is choices, and because everyone has different sensibilities about what's important, everyone's choices will be different.
+
+## A Hypothetical Utopia
+
+As a thought experiment about wealth, let's consider an alternate world.  This world is exactly the same as the one we live in.. except for one difference.  Every single person gets a base $100,000 per year.  If they work, they can make more but they don't have to.  If they spend it all they can't ask for more.
+
+How would our thinking change in this world?  A large segment of the population would probably just do nothing.  Some might squander the money, but it's hard to not at least make it through a year on $100,000, especially if you have a family getting a couple of those payments.  You could do absolutely nothing except watch Ricki Lake and American Idol every day and be-- well you wouldn't be fine, but you would still have money to pay for rent and food.  
+
+The rich who owned land, property, or companies could still be vastly more wealthy than the poor.  But.. would the poor be poor?  Would the base folks who have "only" $100,000/year be begging for the millions some small minority has?
+
+Probably.  Most people think of wealth as the Joneses they need to keep up with.  It's not about how much time and money you have, it's about comparisons.
+
+And that just plain sucks.  In some sense at least, we're heading towards this alternate world.  Paul Graham [points out](http://www.paulgraham.com/stuff.html) that "hardly anyone is so poor that they can't afford a front yard full of old cars."  It seems like nobody is too poor to own a cell phone either, a rather impressive piece of technology.  
+
+## Resources
+
+This wasn't always the case.  Three hundred years ago the poor were *really* poor.  A thousand years ago was worse.  Maybe they lived in a tiny one room house and subsistence farmed a small piece of land.  Or they lived off a city street that reeked of the feces they threw out the window each day.  And even the rich back then were poor by today's standards.  They had no car, no washer/dryer, no phone, very few clothes, no electricity, no running hot water.
+
+Technology is what has been driving wealth.  Wealth used to be huge pieces of land and many goats.  Neither the lord of the land nor the vassal had particularly good health or knowledge.  The lord simply had land, and there's only a limited amount of that resource.
+
+Health, knowledge, and contentment on the other hand are virtually limitless.  Medicine and books today are becoming ubiquitous.  Cell phones and tablets are on their way.  Imagine when *everyone* has internet access and vaccines.  Technology is driving us towards that world.
+
+One interesting part of this trend is that we humans have learned how to manage our physical world in a far more efficient manner than we used to.  As farmers, the best we could do to manage our physical resources was till the land and make plants grow.  As smiths and metalworkers, we were able to process more difficult raw materials and make better tools.
+
+And today?  Today we can mass-produce a dazzling array of knowledge tools capable of holding or accessing almost all of human knowledge and progress from anywhere in the world.  Computers are the zenith of our technical progress so far.  In the same way that the brain is the most complex and fascinating thing we know in the universe, so to is the computer the most complex and fascinating thing of our own making.  Transistors and magnetic storage approach the atomic level of organization and are mass-produced cheaply enough for huge segments of the population.  
+
+This is a *big* change.  In a few hundred years, we've moved from managing our physical resources on the level of acres of land to managing resources on the level of molecules and atoms today.  How exciting will the next hundred years of progress and improvement be?  
+
+And the further our progress takes us, the more ridiculous our need for comparisons will be.
+
+
+
+
+
+
+
