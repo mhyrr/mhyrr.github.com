@@ -41,7 +41,7 @@ Bullet Points:
 
 * A 401k is the pension plan of our generation.  It's not magic and it's not the only thing you should be doing.
 
-* Index funds win everytime.  Buffer made a [Long Bet](http://longbets.org/362/) on this.  You can't beat the market.  Walk away from anyone who says you can.
+* Index funds win everytime.  Buffet made a [Long Bet](http://longbets.org/362/) on this.  You can't beat the market.  Walk away from anyone who says you can.
 
 * If a financial advisor hasn't signed something that says they operate in your fiduciary interest, they're selling you something on behalf of someone else.
 
