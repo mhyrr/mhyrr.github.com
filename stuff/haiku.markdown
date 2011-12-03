@@ -3,49 +3,49 @@ layout: post
 title: Haiku
 ---
 
-# Awareness
+### Awareness
 
 I conform, and they  
 see it as maturity.  
 But I know better.  
 
-# Patience 
+### Patience 
 
 Articulation  
 is a precise art, and so  
 I fear my great thoughts.  
 
-# Death 
+### Death 
 
 Knowing that the end  
 Is not the end of all things  
 Allows one to live.  
 
-# Example 
+### Example 
 
 Birds fly focused-- on  
 Important matters, but what  
 If I'm not that smart?  
 
-# Constant  
+### Constant  
 
 Metamorphosis  
 does not end with shedding a  
 butterfly's cocoon.  
 
-# Silence  
+### Silence  
 
 All that I can do  
 sometimes is shake my head in  
 exasperation.  
 
-# Towards Faith 
+### Towards Faith 
 
 Tyrannical doubt  
 holds the truth hostage in the  
 guise of longing hope.  
 
-# Growing Old
+### Growing Old
 
 Being wrong is hard  
 And more conscious as time is  
