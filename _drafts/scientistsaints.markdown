@@ -113,4 +113,12 @@ The opposite of suffering isn't comfort, as the modernist view of technology mig
 
 
 
+Science has just gotten better tools over time, it hasn't changed.. the computer is just the newest best tool.
+
+PRNGs as an example of just not knowing everything needed.. compared to science in general
+
+Conways game of life compared to iintelligent design
+
+
+
 * Freeman Dyson - a more complete quote: "Science and religion are two windows that people look through, trying to understand the big universe outside, trying to understand why we are here. The two windows give different views, but they look out at the same universe. Both views are one-sided, neither is complete. Both leave out essential features of the real world. And both are worthy of respect. Trouble arises when either science or religion claims universal jurisdiction, when either religious or scientific dogma claims to be infallible. Religious creationists and scientific materialists are equally dogmatic and insensitive. By their arrogance they bring both science and religion into disrepute. The media exaggerate their numbers and importance. The media rarely mention the fact that the great majority of religious people belong to moderate denominations that treat science with respect, or the fact that the great majority of scientists treat religion with respect so long as religion does not claim jurisdiction over scientific questions." from his acceptance speed of the Templeton Prize for Progress in Religion, http://www.edge.org/documents/archive/edge68.html
