@@ -38,7 +38,7 @@ Only 1% of fatal incidents happen in construction zones, and the numbers aren't 
 
 ![Types](/images/workzonevtype.jpg)
 
-Pedestrians have a lower chance (1 in 14) to be hit in a construction zone than they do on a normal road (1 in 10)!
+Pedestrians have a lower chance (1 in 30) to be hit in a construction zone than they do on a normal road (1 in 15)!
 
 Yeah, not so impressed with those stationary speed cameras.
 
