@@ -38,9 +38,9 @@ Only 1% of fatal incidents happen in construction zones, and the numbers aren't 
 
 ![Types](/images/workzonevtype.jpg)
 
-Pedestrians have a lower chance (1 in 30) to be hit in a construction zone than they do on a normal road (1 in 15)!
+Pedestrians have a lower chance (1 in 30 fatalities) to be hit in a construction zone than they do on a normal road (1 in 15 fatalities)!
 
-Yeah, not so impressed with those stationary speed cameras.
+*Note, this data isn't meant to be rigorous or complete, only to show that speeding and construction zones aren't the big problems speed cameras are trying to fix.*  So yeah, not so impressed with those stationary speed cameras.
 
 The sad thing is, car accidents are a significant problem in our country.  They have a relatively high injury and fatality rate per mile traveled.  The automakers have led the charge to reduce these rates, designing incredibly safe cars compared to those of past eras.  The evidence is in the crash-test pudding:
 
@@ -51,8 +51,9 @@ Our policies for drivers need to follow this lead.  Speed is not the problem.  S
 * Driver education needs to be remarkably better.  The average driver, with but 6 hours of "real-world" driving experience at a school can acquire a license with no real concept of how to handle a vehicle.
 * Enforcement of reasonable driving policies needs to be strict.  Only passing on the left, staying right except for overtaking, serious penalties for speeding based on real speed limits (I'd be in favor of penalties well over $1000 for driving too fast in a neighborhood), and real and reasonable speed limits are the top items on my list.  It's ridiculous to me that the Autobahns of Germany with large unlimited areas have a fatality rate per miles traveled about one half of the rate in the US.
 
-But before we can tackle the real problems, we need to shed the fake bureaucratic solutions like stationary speed traps that only actually make things worse.
+Ironically, as technology gets better, these cameras will shrink to be smaller and more unidentifiable.  If they were truly about safety and not revenue, they would remain large and obvious as a deterrent, rather than becoming more and more invisible.
 
+Before we can tackle the real problems of road safety, we need to shed the fake bureaucratic solutions like stationary speed traps that only actually make things worse.  
 
 
 
