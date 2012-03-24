@@ -18,6 +18,7 @@ Or this one, in which my accountant has his office:
 Who thought of these awful places, you might wonder?  20th century architects operating under urban planning authorities, both trying to copy and implement Corbusier's ideas.  Maybe you'll recognize some similarities in Corbusier's work:
 
 In Brazil:
+
 ![Brazil](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/MESP4.jpg/450px-MESP4.jpg)
 
 In Japan:
