@@ -11,23 +11,31 @@
 			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/telepath.blog.markdown",
 			"settings":
 			{
-				"buffer_size": 13366,
+				"buffer_size": 13661,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/onretirement.blog.markdown",
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/scientistsaints.markdown",
 			"settings":
 			{
-				"buffer_size": 1781,
+				"buffer_size": 22494,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/crowds.blog.markdown",
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/applelongterm.markdown",
 			"settings":
 			{
-				"buffer_size": 1134,
+				"buffer_size": 2066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/whitepage.markdown",
+			"settings":
+			{
+				"buffer_size": 588,
 				"line_ending": "Unix"
 			}
 		},
@@ -35,15 +43,7 @@
 			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/strongopinions.blog.markdown",
 			"settings":
 			{
-				"buffer_size": 2889,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/mhyrr/Documents/work/ruby/omgearthquake/earthquake.rb",
-			"settings":
-			{
-				"buffer_size": 1097,
+				"buffer_size": 3112,
 				"line_ending": "Unix"
 			}
 		},
@@ -52,22 +52,6 @@
 			"settings":
 			{
 				"buffer_size": 1947,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/collegeprestige.blog.markdown",
-			"settings":
-			{
-				"buffer_size": 24025,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/knowledgeineconomics.blog.markdown",
-			"settings":
-			{
-				"buffer_size": 741,
 				"line_ending": "Unix"
 			}
 		}
@@ -91,13 +75,47 @@
 	},
 	"file_history":
 	[
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2012-03-24-corbusier.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/corbusier.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2012-03-21-speedtraps.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/speedtraps.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-11-22-practical.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-10-17-ferrari.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2008-04-08-youve_got_to_be_kidding_me.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/constitutionalism.markdown",
+		"/Users/mhyrr/Dropbox/SYSTOLIC/Operations/DCAA/Aronson-01-05-2012/followup questions",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/collegeprestige.blog.markdown",
+		"/Users/mhyrr/Documents/work/ruby/koans/about_asserts.rb",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-11-24-bulletpoints.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/moneypractical.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/moneypsychology.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/moneyuseit.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-11-21-wealth.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/knowledgeineconomics.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/moneywealth.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/moneystarters.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/onretirement.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-10-29-gmail.markdown",
+		"/Users/mhyrr/Documents/work/ruby/omgearthquake/earthquake.rb",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/gmail.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/css/compressed.css",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/stuff/words.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-10-22-crowds.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/crowds.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/cubicles.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/ferrari.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2008-03-02-the_album_art_meme.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-09-18-known.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/wishyoudknown.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/somecalculations.blog.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/moviescenes.markdown",
+		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/baddrivers.blog.markdown",
 		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-08-15-robertreich.markdown",
 		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-08-08-pandering.markdown",
 		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/robertreich.blog.markdown",
 		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2010-09-12-contrarian.markdown",
 		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2010-04-25-knowing_how_to_not_know.markdown",
 		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/pandering.blog.markdown",
-		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/gmail.blog.markdown",
 		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-04-09-buying_power.markdown",
 		"/Users/mhyrr/Documents/work/mhyrr.github.com/_posts/2011-07-09-plausibility.markdown",
 		"/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/plausibility.blog.markdown",
@@ -118,6 +136,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"later",
+			"why",
+			"math",
+			"jones",
+			"simple",
+			"heal",
+			"img",
+			"1",
 			"plau"
 		],
 		"highlight": true,
@@ -143,7 +169,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -151,15 +177,15 @@
 					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/telepath.blog.markdown",
 					"settings":
 					{
-						"buffer_size": 13366,
+						"buffer_size": 13661,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8778,
-								8778
+								12265,
+								12265
 							]
 						],
 						"settings":
@@ -168,51 +194,52 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0,
-						"translation.y": 1380,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/onretirement.blog.markdown",
-					"settings":
-					{
-						"buffer_size": 1781,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								789,
-								789
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0,
 						"translation.y": 0,
 						"zoom_level": 1
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/crowds.blog.markdown",
+					"buffer": 1,
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/scientistsaints.markdown",
 					"settings":
 					{
-						"buffer_size": 1134,
+						"buffer_size": 22494,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								575,
-								575
+								21310,
+								21310
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 3800,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/applelongterm.markdown",
+					"settings":
+					{
+						"buffer_size": 2066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2066,
+								2066
 							]
 						],
 						"settings":
@@ -227,18 +254,18 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/strongopinions.blog.markdown",
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/whitepage.markdown",
 					"settings":
 					{
-						"buffer_size": 2889,
+						"buffer_size": 588,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1059,
-								1059
+								588,
+								588
 							]
 						],
 						"settings":
@@ -253,26 +280,26 @@
 				},
 				{
 					"buffer": 4,
-					"file": "/Users/mhyrr/Documents/work/ruby/omgearthquake/earthquake.rb",
+					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/strongopinions.blog.markdown",
 					"settings":
 					{
-						"buffer_size": 1097,
+						"buffer_size": 3112,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								637,
-								637
+								303,
+								303
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0,
-						"translation.y": 89,
+						"translation.y": 0,
 						"zoom_level": 1
 					},
 					"type": "text"
@@ -289,60 +316,8 @@
 						"selection":
 						[
 							[
-								1947,
-								1947
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/collegeprestige.blog.markdown",
-					"settings":
-					{
-						"buffer_size": 24025,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21112,
-								21112
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0,
-						"translation.y": 3691,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/mhyrr/Documents/work/mhyrr.github.com/_drafts/knowledgeineconomics.blog.markdown",
-					"settings":
-					{
-						"buffer_size": 741,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								572,
-								572
+								1628,
+								1628
 							]
 						],
 						"settings":
@@ -392,11 +367,11 @@
 	},
 	"select_project":
 	{
-		"height": 0,
+		"height": 500,
 		"selected_items":
 		[
 		],
-		"width": 0
+		"width": 380
 	},
 	"show_minimap": true,
 	"show_tabs": true,
