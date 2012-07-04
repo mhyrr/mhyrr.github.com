@@ -53,14 +53,16 @@ It's important to note too that, at a philosophical level, the scientific notion
 Evolution has been the largest wedge between science and religion since heliocentrism.  Ironically, perhaps the best view of these two actors comes from evolutionary biologist Stephen Jay Gould, who described science and religion as "non-overlapping magisteria".  Gould borrowed the term "magisteria" from *Humani Generis* and in fact uses the notion of the soul as one of his prime examples:
 
 	Religion is too important to too many people for any dismissal or denigration of the comfort 
-	still sought by many folks from theology. I may, for example, privately suspect that papal insistence on divine infusion of the soul represents a sop to our fears, a device for 
+	still sought by many folks from theology. I may, for example, privately suspect that papal
+	insistence on divine infusion of the soul represents a sop to our fears, a device for 
 	maintaining a belief in human superiority within an evolutionary world offering no 
 	privileged position to any creature. But I also know that souls represent a subject outside 
 	the magisterium of science. My world cannot prove or disprove such a notion, and the concept
 	of souls cannot threaten or impact my domain. Moreover, while I cannot personally accept
 	the Catholic view of souls, I surely honor the metaphorical value of such a concept both 
 	for grounding moral discussion and for expressing what we most value about human potentiality:
-	our decency, care, and all the ethical and intellectual struggles that the evolution of consciousness imposed upon us. 
+	our decency, care, and all the ethical and intellectual struggles that the evolution of
+	consciousness imposed upon us. 
 
 I foster a fear that, as pleasant as this solution of mutual exclusivity may seem, it remains too simplistic.  Certainly many sociobiologists, and chiefly Richard Dawkins among them, would disagree.  I remain tepid myself, as my rational and scientific outlook holds the (perhaps delusional) notion that the entire world is a knowable system.  Maybe it isn't.  Certainly there is a third, and oft overlooked, player in the game: philosophy.  
 
