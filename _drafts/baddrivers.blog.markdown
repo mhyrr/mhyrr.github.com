@@ -3,6 +3,8 @@ Title: How To Tell If You're a Bad Driver
 1 - If you're surprised often on the road.   
 I don't mean by this that once a year you're amazed when a bike flies by you at 110 mph.  If you're surprised often, on a regular basis, you might be a bad driver.  Generally, a good rule of thumb on the road is to be extremely aware of your surroundings.  This means what's happening ahead of you, to your sides, and behind you.  If someone turning a blinker on, or changing lanes, or moving past you at a reasonable speed delta is a surprise.. you should be paying more attention
 
+1a (Corollary) - If you hesitate a lot.  For example, when switching lanes.
+
 2 - If you think everyone slower than you is an idiot, and everyone faster than you has a death wish.  
 This is number one I think.  It speaks to one of two things (or possibly both).  First is arrogance.  I know better than everyone else and they should all drive like me.  Far more insidious is a lack of knowledge.  It could mean you have a lack of knowledge of the rules of the road.  As a consequence, it means you don't understand the real problem.  This is probably not your fault, as the government bodies designed to teach you such things perform abysmally.  The assumption here is that large deltas in speed ( different rates of speed ) are bad.  This is absolutely false.  It just requires a very basic, simple set of rules to follow, and everything would work just fine.  Unfortunately, those rules are almost universally disregarded.  It's easy to prove that speed deltas aren't bad.  If they were, a 25 mph road should never intersect with a 55 mph road, and all highways would have far larger merge lanes for onramp drivers to get up to the appropriate speed.
 
