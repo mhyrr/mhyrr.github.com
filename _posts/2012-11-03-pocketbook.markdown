@@ -5,7 +5,7 @@ title: Voting With Your Pocketbook?
 
 Everyone seems to have this idea that Republican policy favors the rich while Democratic policy favors the poor.  Additionally, everyone assumes the rich support Republican policies, while the poor support Democratic policies.  I decided to see if a bit of data would support this in the voting record.  Here's what I came up with:
 
-![Ordered By Income](images/states.png)
+![Ordered By Income](/images/states.png)
 
 The richer states tend to align more with the Democratic party while the poorer states tend to align with the Republican party.  This is especially true for Presidential elections, and a little less true for Governors and State Legislatures.  If people really vote with their pocketbooks, why would rich states vote for a party that is perceived to want to raise taxes?  And why would poor states vote for a party that is perceived to want to take more from the middle class, cut taxes for the rich, and kill entitlements for the poor?   
 
