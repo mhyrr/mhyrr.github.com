@@ -19,13 +19,13 @@ Recently, a good friend and I had an interesting back and forth over email.  A s
 
 I don't understand either.  I don't really think anyone does yet.  But it seems reasonable to say that we are in a fascinating age of wonder and discovery, of speed and communication, of information and technology.
 
-The notion of progress suggests constant forward motion even though it rarely is.  It's always sideways or one step backward before figuring things out.  We humans have no real foresight.  We're never sure what the big leaps will be until we've found them, and they always seem obvious (and awesome) in hindsight.
+The human notion of progress presents a perception of constant forward motion even though it rarely is.  There are always side steps or backward steps before we eventually figure anything out.  We humans have no real foresight.  We're never sure of what the big leaps will be until we've found them, and they always seem obvious to us (and awesome) in hindsight.
 
 Unquestionably, the last two hundred years have been an amazing leap forward for our world.  The Industrial Revolution sparked a huge amount of human productivity and invention.  There have been difficulties - we've spoiled ourselves, our fellow humans, and the environment (sometimes drastically) - but the world has become generally better in that time.  Cities are cleaner, life expectancies and infant mortalities are lower, and education and quality of life are higher.
 
 In the last century, the improvements in technology have only quickened.  The computer especially has completely overhauled almost every field of study it has touched and has changed our ways of life permanently.  We've come to think of information, spatial distance between people, and communication completely differently than we did even ten or twenty years ago.
 
-So where are all these changes leading?  What are we striving towards, as my friend asked?  I hope to address this question and suggest a few parts of our lives that will continue to change, and hopefully for the better.
+So where are all these changes leading?  What are we striving towards, as my friend so genuinely asked?  I hope to address this question and suggest a few parts of our lives that will continue to change, and hopefully for the better.
 
 ### The Age of the Internet
 
@@ -65,7 +65,7 @@ A farmer from the time of the American Revolution would have no idea how to surv
 
 And we haven't even considered computers yet.  When we reply snarkily to our parents or grandparents about some computer problem, we're reminded of just how quickly things have changed.  Arthur C. Clarke famously defined technology as "anything invented after you were born."  These days, that's a lot.  And it's hard to keep up.
 
-Still, the computer is an invention within the lifetime of many.  The actual machine has progressed far from some of the original ideas of Georg Boole and Ada Lovelace.  A few have even made modern versions of __  thinking Machine.  And it worked.
+Still, the computer is an invention within the lifetime of many.  The actual machine has progressed far from some of the original ideas of people like Georg Boole and Ada Lovelace.  A few have even made modern versions of __  thinking Machine.  And it worked.
 
 But the first real computers were in the 30s and 40s.  They had massive memory drums and enormous room-sized "CPU"s.  The history of these machines mirrors our own in improvement, but in microcosm.  The complete story has filled books, so I won't dwell here.  The transistor created dramatic improvements in speed, and Moore's Law has steadily held for over sixty years.
 
@@ -104,8 +104,30 @@ A wealth of information creates a poverty of attention -- ?
 loopt and eyes
 http://www.ted.com/talks/pattie_maes_demos_the_sixth_sense.html - the internet and ubiquity.. it's connected to you not devices.
 
-The future of telepathy
+The future of telepathy - how different is the way we text now from telepathy?  Only two improvements need to be made to reach what someone could legitimately call telepathy: we need a way to accept/read signals directly and we need a way to send signals directly, without the need to type or talk or whatever.  The second fo these is probably quite a bit harder, but neither should seem that far out at this point.  We're within a generation or two of achieving something like that.
 
 Human communication - when people talk they talk over each other constantly, they don't listen, they don't  say what they mean and the other person doesn't get what they say.  College students embrace this in IM.  High school students embrace this in text.  I can, with written communication, embrace what I want to say as closely as possible with no such distraction as facing another human being directly.  I can accommodate my thought completely and then hopefully pass it on for appropriate response.
 
 Does this sound stoic?  I hope not, it's a riot.  The written word, not speech, is the most fundamental communicative medium of civilization.  And it's the one that will last in the 21st century and beyond.  Not voice, not video.  Text.  There's a reason books have survived this long.
+
+
+Kolmolgorov Complexity and compressibility.
+
+What's the difference between communication and information?  Some people prefer texting to phones and typing to talking.  Is less communication generated this way, or less information?  Certainly two friends sitting with each other by a fire can have a more complete and engaging human experience than if they type over a keyboard from hundreds of miles away.  Perhaps the most intriguing point of inquiry is the carnal communication of sex.  Can this communication be defined as simply some set of information exchanged between people?  Or is there something incompressible about the experience that can't be reduced or defined?
+
+The internet of things and how it will relate to the current internet.  How things will change.
+
+
+
+
+
+
+Organization:
+
+A brief history
+
+Extrapolate out from here
+
+Conclusions on what this means in terms of communication vs. information, etc.
+
+Some of the dangers

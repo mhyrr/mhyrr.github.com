@@ -1,0 +1,125 @@
+---
+layout: post
+title: It begins, now.
+---
+
+I'm starting a new workout and diet regimenm tomorrow.  In the interest of disclosure and drive, I'm tracking my goals and progress here.
+
+First, a bit about where I am and where I've been.  I'm 32.  My height is 6'1 and my weight is slightly over 250 (I'm not sure of the exact number, I'll find that out tomorrow morning).  I've always been pretty athletic, and for the last ten years or so my weight has been almost exactly 240.  That's a lot, I know.  I'm a pretty big guy naturally (or as a friend put it, with a positive spin, I'm built like a brick shithouse).  I've never put much emphasis on anything but being strong, so as long as I could run a couple of miles in a decent time, that was enough.
+
+I don't have too many good measures of where I am physically.  I was irregularly running a couple of miles at a time over the summer.  I could probably do a reasonable 5K, but it wouldn't be fun.  
+
+I have a better measure of strength.  In the spring, I did 17 reps of 225 on bench press, which puts me on the lower end of Running Backs in the NFL Combine (Alfred Morris, for all you Skins fans, did 16).
+
+Over the past year, my weight has gone up ever so slightly.  I could attribute this to any number of things - I'm getting older, my wife and I had our first child, the stress of buying a new house or the stress of work.  Maybe all of the above, but they're happy excuses and I'm not interested.  I got a bit frightened because my steady weight suddenly popped up in a way it never has.  It's not a lot (on my frame you can't even tell), but it's enough to want to reverse the trend.  
+
+This is really a lifestyle change with a few months of jumpstarting.  In the end, lifestyle is what matters.  I eat like shit and I know it.  I've always been able to get away with it, but I'm at the age now where that slows down ever so slightly, priorities change ever so slightly and the beginning of the 40 year old belly takeks hold.  So now is the time to correct what I don't want in 8 years.
+
+To do so, I'm going to have a few months of hard work ahead of me.  Following that, I hope to enter an indefinite maintenance period, likely with stacattos of hard work to stay steady.  For now, I'm focused on the first few months.
+
+## Regimen
+
+Here's what I will be doing:
+
+### Diet
+
+I'll be using the [Slow Carb Diet](http://www.fourhourworkweek.com/blog/2007/04/06/how-to-lose-20-lbs-of-fat-in-30-days-without-doing-any-exercise/) espoused by Tim Ferriss.  There are 4 rules:
+* Avoid White Carbohydrates
+* Eat the same meals over and over again
+* Don't drink calories
+* Take one day off per week and go crazy, eating anything and everything you want.
+
+In practice, this means a protein and vegetable rich diet, with beans and lentils for carbs.  I'll be following pretty close to this, focusing on eggs/egg whites in the morning, a Protein shake, leftover meats and veggies for lunch and meats and veggies for dinner.  The only alcohol allowed will be red wine.  Saturday will be my cheat day.
+
+I tried this diet for just over 2 weeks in August and lost 12 lbs.
+
+### Workouts
+
+I'll be focusing on strength training, ala [Starting Strength](http://www.amazon.com/Starting-Strength-3rd-Mark-Rippetoe/dp/0982522738).  Here's what I will be following, roughly:
+
+Legs:
+	Squats (4x12) - 225-275
+	Superset
+	    Lunges - 3x10 - 40 lb dumbbells
+	    Straight Leg Deadlift - 3x10 - 135
+	    Leg Press - 3x10 - 460-640
+	Leg Curls - 3x12 - 60
+	Leg Extensions - 8x10 w/ 10 second rests - start at 110 lbs and go down as needed
+	Calf Raises - 100 reps, few sets as possible
+	Situps and Planks
+
+Chest/Shoulder/Tri:
+	Bench Press - 4x10 - 150-225
+	Superset
+	    Dumbbell incline bench - 3x10 - 50 lb dumbbells
+	    Incline Flies - 3x10 - 40 lb dumbbells
+	    Dips - 3x10
+	Pushups - 8x10 w/ 10 second rests (ugh)
+	Standing Military Press - 3x10 - 95
+	Superset
+	    Arnolds - 3x12 - 40 lb dumbbells
+	    Lateral Delt Flies - 3x12 - 15 lb dumbbells
+	    Bent Over Flies - 3x12 - 15 lb dumbbells
+	Superset
+	    Close Grip Bench - 3x12 - 95
+	    Tricep pushdown - 3x12 - 110
+	    Dips - 3x12
+	Situps and Planks
+
+Back/Biceps:
+	Dead Lifts - 4x12 - 225-325
+	Barbell Rows - 3x10 - 135-155
+	Superpset
+	    Dumbbell rows - 3x10 - 65
+	    Straight arm pull downs - 3x10 - 100
+	    Lat pull downs - 3x10 - 120
+	Tbar Rows - 3x10 - 135
+	Shoulder Shrugs - 4x15 - 270
+	Superset
+	    Curl Bar - 3x10 - 75
+	    Preacher Hammer Curls - 3x10 - 25
+	    Machine Curls - 3x10 - 100
+	Situps and Planks
+
+This will be the Monday/Wednesday/Friday schedule.  On Tuesday/Thursday/Saturday I hope to do a lighter version of this as an off day schedule.  Each major muscle group will only be worked 1 or 2 times per week.
+
+### Recording
+
+I will be recording my weight in the mornings, daily.  I will keep track of my exercise weights more loosely.
+
+## Goals
+
+Most of the fitness literature, DVDs, and routines is bullshit.  Personal trainers, gyms and other things often have alternate goals, mostly including money and lack of injury.  They don't operate in your **fiduciary** interest.  I will be ignoring almost all of it.
+
+I have 3 weight goals and 3 strength goals.
+
+Weight Goals:
+* Back to 240, my "normal" weight for the past ten years.  This should not take more than 3-4 weeks.
+* 230.  I haven't weighed this since not long after college.  8-12 weeks.
+* 220.  This is a reasonable and maintainable weight for someone of my build.  This is the ultimate goal.  If I get lower than this, then it's a bonus.  16-20 weeks.
+
+Strength Goals:
+* Squat 1.5x bodyweight.  At 225, that's 340.  I can currently rep 275 for 10 pretty easily.
+* Bench Press 1.5x bodyweight.  At 225, that's 340.  This will be the most difficult.  My all time max is 325.
+* Deadlift 2x bodyweight.  At 225, that's 450.  I could likely do 405 currently, although I'm reluctant to because of a poor lower back history.  I'm the most reluctant to push this one.
+
+## Reasoning
+
+One thing I've noticed is that most of working out and diet are completely psychological.  I've set this up to maximize the probability of success for me.  
+
+### Do What You Love
+
+I love lifting heavy things.  I'm pretty good at it.  I hate (**hate**) running.  And I'm not good at it.  If I work hard at doing something I enjoy, I'll do it more and enjoy it more.  This shouldn't be something you hate doing.  If you love running, this probably won't be for you.
+
+### Enjoy Food
+
+I enjoy food, like, a lot.  Pizza is my favorite thing ever.  I picked this diet, not because it's the most effective (although that may be true), but because I still get to eat all the shitty food I love.  On Saturday's, Five Guys, beer, pizza, bagels, and anything else are all on the table.  That's enough motivation to keep going on those dreary Wednesdays when you just want some sugar.
+
+### Keeping records makes it real.
+
+Keeping a daily record of my weight is important.  It directs my efforts as being *intentional*.  I don't actually expect to lose weight each day.  There will be plateaus and, after cheat days, my weight will definitely increase.  The point of recording it daily is to keep the process front and center.  You can't avoid it and you can't put it on the backburner.  If it's the first thing you do everyday, it's naturally one of the most important things you do.
+
+## So Here We Go
+
+I hope to keep track here on semi-regular basis.  Until then, I'm looking forward to tomorrow!  Who's with me?!
+

@@ -126,6 +126,8 @@ The really odd thing about those stuck in the cover-letter/resume/interview thin
 
 Community college, skilled labor, thinking and Veritas 
 
+An employee needs to be able to write well. Speak well think well. So a vocational school would teach that in the ideal. So there shouldn't be a real difference between that and college. Note that medieval history doesn't help this especially the shopping mall curricula we have now.
+
 Fixing the condition of an enjoyable and work-filled life for the majority, and enabling them to think beyond the conditions education sets them now.  But also allowing an environment where those that both can and want to  to think.
 
 "Perhaps you, Dear Reader—like me—are surprised to learn that a hotbed of scholarly inquiry like UNLV actually has a philosophy department in the first place. But, putting aside any special needs UNLV might have concerning the ontology or metaphysics of college basketball, or the ethical justification for bribery of student athletes, I suppose it makes sense, if only for the sake of curricular completeness."
@@ -151,7 +153,7 @@ The joy of human existence, in all its fragility, deserves better than a Sisyphe
 
 ##### A personal footnote
 
-For a long time I had a lot of trouble with where I went to college.  I went to the University of Maryland - a fine school - and the root cause of my frustration was that I thought in retrospect that maybe I should have gone to UVA or MIT or someplace more.. *prestigious*.  But in writing this I've started to realize that when I look back on my experience at Maryland, the thing I really struggle with is rigor.  I expect that somewhere else would have been more rigorous.
+For a long time I had a lot of trouble with where I went to college.  I went to the University of Maryland - a fine school - and the root cause of my frustration was that I thought in retrospect that maybe I should have gone to UVA or MIT or someplace more.. *prestigious*.  But in writing this I've started to realize that when I look back on my experience at Maryland, the thing I rea`lly struggle with is rigor.  I expect that somewhere else would have been more rigorous.
 
 I've since blown a big wide hole in my own thought process on college.  Half or more of the reason I'm frustrated with my time spent there is frustration at myself.  *I* should have been more rigorous.  *I* should have paid more attention.  *I* should have been more ambitious.  I would have liked the opportunity to have professors that led me in the right direction, but placing that onus squarely on a teacher's shoulders is avoiding the problem.  Learning, not teaching.  The idea of guidance is correct here, wherein an inquisitive student can be guided to learn more.  But the main focus is learning.  I place too much blame on my college experience on where I went and not enough on the process and on myself.
 
