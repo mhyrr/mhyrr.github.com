@@ -1,0 +1,24 @@
+response to education culture
+
+First.. I really want my boys (should I have any) to go to the Heights.
+
+The notion of an Entertainment culture is interesting.  I wonder how he would contrast that with the definition of Leisure, which Pieper suggests is the basis of culture.  I would hesitate to define entertainment so strictly with electronics- that's an obvious bias of mine.  But the reason is important, that same technology is allowing things never done before in a very good way.  The processing and systematic access of information is a huge success of the last century.  We, humanity, have done a poor job at times transforming that information into knowledge and wisdom, but that's not the fault of the technology as a tool to do so.  Never before has so much information been so accessible.  Is that good or bad?  I would say it's not bad, and in fact it forces us to think hard about what "learning" is.  Is it the memorization of some set of facts?  Is it a methodology for knowing the basics of some subject matter?  Or is the important part the process of thinking critically.. about truth and the pursuit of it.
+
+He mentions a great quote from Aristotle on the masses and a "bovine existence".  I've long considered the pig as a proof for Socrates statement "not life, but good life, is to be chiefly valued."  If life is sufficient, becoming "domesticated" would be an ideal.  All our needs are taken care of and a generation of progeny are guaranteed.  Yet time and again subsets of humanity have rebelled against this existence when so constrained.
+
+So I would suggest that the entertainment - the screens and the technology - are not the problem.  The problem is the bovine existence.  The difference now is that all our simplest needs are easily fulfilled and our "leisure time" is abundant.  Think on Maslow's Hierarchy of Needs.  Never before has a population had it's safety and physiological needs so fully met.  That's not a bad thing, that's a good thing.  Less famine, war, etc. is good.  But as we move our focus up the pyramid, our inability to understand accurately our needs diminishes.
+
+We, as humans, have always tried to replace these higher needs.  But now we live in a culture that focuses on them: so love becomes pleasure, esteem becomes belonging (diversity and "everybody wins"), self-actualization is replaced with relativism...  I hope this striking contrast will eventually help teach us.  We will be forced to confront our identity and reflect on what we actually need.  At a large scale, one that encompasses an entire population (rather than the archetype of man), this question is only just being asked.
+
+With regard to education, I agree with some of the problems, but I think 'one-dimensional' is the right world.  The problem is the bovine life, not the technology, entertainment, etc. that draws it out.  If anything, that helps understand the problem and cut to the chase.
+
+I'm inclined to ask some other questions as well.  What is reality?  He mentions virtual reality and later says of pornography "no one is really there".  Is anyone "there" in a book?  What of Sappho, the Marquis de Sade, or even the Song of Songs?  What is the difference in love and pleasure?  How does one characterize imagination and ingenuity compared to the bovine life?
+
+I recently wrote a little blurb called [Knowing How To Not Know](http://www.infiniteabyss.org/2010/04/25/knowing_how_to_not_know.html) on my blog.  I tried to cover a couple of somewhat similar problems I have in education in a more conversational way.  I'm not very happy with how it turned out really.. it feels fragmented and loose.  But the main thing I was trying to get at is that I think education should be cultivating the sense of wonder that children have naturally and build it into an ability to learn and think critically.  That's the goal of an "education" in my mind.  The covering of some set of material is merely a byproduct.  In the age of the Internet, where nearly any "simple" piece of information is at our fingertips, simply covering material approaches meaninglessness.
+
+(need to know about Rousseau? ok: [Try Wikipedia](http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
+What about sine waves with amplitude of sqrt(2) and 2+sqrt(2)? ok: [Try Wolfram Alpha](http://www.wolframalpha.com/input/?i=Plot[{Sin[(Pi+x)/Sqrt[2]],+Sin[(Pi+x)/(2+%2B+Sqrt[2])]},+{x,+0,+50}]))
+
+I've been thinking about this sort of thing a lot recently, so I'd love to keep talking about it.  It seems easy to punt on the problem and consider technology aside from our reality.  But it's just as much a part of it as everything else.  In fact, with the fundamental questions it forces us to ask, it might be even more important to consider.
+
+Would also be curious of your own critique of both the article you sent me and my thoughts.  Always trying to get better..
