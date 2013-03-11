@@ -5,9 +5,9 @@ title: 2 Month Check-In
 
 Last Wednesday was two months from my starting point, where I weighed 258.  The last couple weeks, I've been hovering around 244.  So I'm down 14 lbs.  Not bad, but not quite where I expected to be.  Here's my graphs.
 
-<img src="images/2mos.png" width="600" >
+![Oh yeah](/images/2mos.png)
 
-<img src="images/2mos_projected.png" width="600" >
+![Keep on rolling..](/images/2mos_projected.png)
 
 So what's happened?  Basically, I got to a point where I started caring more about my workout weights than I did my weight.  I could still stand to lose a few more, but I have a plan..
 
