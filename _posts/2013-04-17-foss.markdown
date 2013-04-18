@@ -1,0 +1,12 @@
+---
+layout: post
+title: Two Kinds of FOSS
+---
+
+About a month ago, I went to 10Gen's MongoDC Conference.  It was a nice little day long conference; the speakers were highly technical and included the 10Gen CEO and COO.  I hung out with a few friends and learned some new things about what Mongo can do, and what it will do in upcoming releases.
+
+I was also reminded that there are two kinds of FOSS.  FOSS has become a sort of watchword for business-types.   They hear the Free part and smile, and they willingly interpret the Open Source part to mean community driven and low risk.
+
+I'm glad they think that, and I'm glad FOSS is now the de facto standard for a lot of software.  But the kind of shop 10Gen is running with Mongo is much different than a lot of the other FOSS you'll find on Github.
+
+In other words, almost fifteen years on, [The Cathedral and the Bazaar](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) is still highly relevant, and you should know which is which.
