@@ -15,7 +15,10 @@ But the biggest change happened in the late 1970s, when a Maryland lawyer named 
 
 So what's the problem?  The problem is that the system is bunk.  Parker himself says:
 
-	Scores, however, do not reveal the important facts about a wine. The written commentary that accompanies the ratings is a better source of information regarding the wine's style and personality, its relative quality vis-à-vis its peers, and its value and aging potential than any score could ever indicate.
+	Scores, however, do not reveal the important facts about a wine. The written
+	commentary that accompanies the ratings is a better source of information 
+	regarding the wine's style and personality, its relative quality vis-à-vis 
+	its peers, and its value and aging potential than any score could ever indicate.
 
 That doesn't stop him from assigning a number value though.  It allows people to make a lazy decision when they walk the seemingly endless aisles of verbose and complicated wine choices.  
 
@@ -55,7 +58,8 @@ I said before that Michael Broadbent is my favorite wine writer.  His attitude t
 
 Even Robert Parker agrees:
 
-	"I really think probably the only difference between a 96-, 97-, 98-, 99-, and 100-point wine is really the emotion of the moment." --Parker
+	"I really think probably the only difference between a 96-, 97-, 98-, 99-, and 100-point 
+	wine is really the emotion of the moment." --Parker
 
 Magical Bottles don't have to be expensive.  They don't have to be special.  Buying a special or expensive bottle of wine is a way by which to increase the probability that you will have a Special Occasion or a little piece of magic.  But it's not a guarantee.  On any given day, a $12 bottle might do it where a $200 bottle won't.
 
